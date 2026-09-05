@@ -1,0 +1,5373 @@
+{
+  "title": "Contour — Services",
+  "type": "page",
+  "version": "0.4",
+  "page_settings": [],
+  "content": [
+    {
+      "id": "7e53a868",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "container_type": "flex",
+        "content_width": "boxed",
+        "boxed_width": {
+          "unit": "px",
+          "size": 1140,
+          "sizes": []
+        },
+        "flex_direction": "column",
+        "flex_align_items": "stretch",
+        "flex_gap": {
+          "column": "24",
+          "row": "24",
+          "unit": "px",
+          "isLinked": true,
+          "size": 24
+        },
+        "padding": {
+          "unit": "px",
+          "top": "40",
+          "right": "24",
+          "bottom": "40",
+          "left": "24",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "html_tag": "section"
+      },
+      "elements": [
+        {
+          "id": "1ee879c1",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "container_type": "flex",
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_direction_mobile": "column",
+            "flex_wrap": "nowrap",
+            "flex_wrap_mobile": "wrap",
+            "flex_gap": {
+              "column": "24",
+              "row": "24",
+              "unit": "px",
+              "isLinked": true,
+              "size": 24
+            },
+            "flex_align_items": "center",
+            "flex_justify_content": "space-between",
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            }
+          },
+          "elements": [
+            {
+              "id": "1f37bf07",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "grow",
+                "flex_grow": 1,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom"
+              },
+              "elements": [
+                {
+                  "id": "39e4b945",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "isInner": false,
+                  "settings": {
+                    "title": "Our Services",
+                    "header_size": "h1",
+                    "align": "center",
+                    "title_color": "#362720",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cinzel",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 42,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "500",
+                    "typography_text_transform": "none"
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "b55b05db",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "grow",
+                "flex_grow": 1,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "flex_justify_content": "flex-end"
+              },
+              "elements": [
+                {
+                  "id": "f9e23030",
+                  "elType": "widget",
+                  "widgetType": "button",
+                  "isInner": false,
+                  "settings": {
+                    "text": "Book Now",
+                    "link": {
+                      "url": "https://app.acuityscheduling.com/schedule/dcffaf1c",
+                      "is_external": "on",
+                      "nofollow": "",
+                      "custom_attributes": ""
+                    },
+                    "align": "right",
+                    "background_color": "#DBBCB0",
+                    "button_text_color": "#362720",
+                    "border_border": "solid",
+                    "border_width": {
+                      "unit": "px",
+                      "top": "1",
+                      "right": "1",
+                      "bottom": "1",
+                      "left": "1",
+                      "isLinked": true
+                    },
+                    "border_color": "#8F6F63",
+                    "border_radius": {
+                      "unit": "px",
+                      "top": "2",
+                      "right": "2",
+                      "bottom": "2",
+                      "left": "2",
+                      "isLinked": true
+                    },
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cinzel",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 14,
+                      "sizes": []
+                    },
+                    "typography_text_transform": "uppercase",
+                    "typography_letter_spacing": {
+                      "unit": "px",
+                      "size": 1.5,
+                      "sizes": []
+                    },
+                    "button_background_hover_background": "classic",
+                    "hover_color": "#F8F2F1",
+                    "button_background_hover_color": "#3E2D25"
+                  },
+                  "elements": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d261e486",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "container_type": "flex",
+        "content_width": "boxed",
+        "boxed_width": {
+          "unit": "px",
+          "size": 1140,
+          "sizes": []
+        },
+        "flex_direction": "column",
+        "flex_align_items": "stretch",
+        "flex_gap": {
+          "column": "24",
+          "row": "24",
+          "unit": "px",
+          "isLinked": true,
+          "size": 24
+        },
+        "padding": {
+          "unit": "px",
+          "top": "40",
+          "right": "24",
+          "bottom": "40",
+          "left": "24",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "html_tag": "section"
+      },
+      "elements": [
+        {
+          "id": "0f4fff29",
+          "elType": "widget",
+          "widgetType": "heading",
+          "isInner": false,
+          "settings": {
+            "title": "1 lash attached on 1 natural lash",
+            "header_size": "h6",
+            "align": "center",
+            "title_color": "#8F6F63",
+            "typography_typography": "custom",
+            "typography_font_family": "Libre Baskerville",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 16,
+              "sizes": []
+            },
+            "typography_font_weight": "500",
+            "typography_text_transform": "none"
+          },
+          "elements": []
+        },
+        {
+          "id": "a47689a1",
+          "elType": "widget",
+          "widgetType": "heading",
+          "isInner": false,
+          "settings": {
+            "title": "Classic Lashes",
+            "header_size": "h2",
+            "align": "center",
+            "title_color": "#362720",
+            "typography_typography": "custom",
+            "typography_font_family": "Cinzel",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 32,
+              "sizes": []
+            },
+            "typography_font_weight": "500",
+            "typography_text_transform": "none"
+          },
+          "elements": []
+        },
+        {
+          "id": "032d9fc9",
+          "elType": "widget",
+          "widgetType": "image",
+          "isInner": false,
+          "settings": {
+            "image": {
+              "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/collage-classic.jpg",
+              "id": "",
+              "alt": "Classic Lashes",
+              "source": "url"
+            },
+            "image_size": "full",
+            "align": "center",
+            "caption_source": "none"
+          },
+          "elements": []
+        },
+        {
+          "id": "0de99bea",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "container_type": "flex",
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_direction_mobile": "column",
+            "flex_wrap": "nowrap",
+            "flex_wrap_mobile": "wrap",
+            "flex_gap": {
+              "column": "24",
+              "row": "24",
+              "unit": "px",
+              "isLinked": true,
+              "size": 24
+            },
+            "flex_align_items": "center",
+            "flex_justify_content": "flex-start",
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            }
+          },
+          "elements": [
+            {
+              "id": "331d827d",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 28,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "14ca2bc4",
+                  "elType": "widget",
+                  "widgetType": "image-carousel",
+                  "isInner": false,
+                  "settings": {
+                    "carousel": [
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/classic-natural.jpg",
+                        "id": "",
+                        "alt": "Natural Classic",
+                        "source": "url"
+                      },
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/classic-glamour.jpg",
+                        "id": "",
+                        "alt": "Natural Classic",
+                        "source": "url"
+                      }
+                    ],
+                    "slides_to_show": "1",
+                    "navigation": "arrows",
+                    "autoplay": "no",
+                    "image_stretch": "yes",
+                    "arrows_color": "#8F6F63"
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "5bcc0c63",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 44,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "54e127a8",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "isInner": false,
+                  "settings": {
+                    "title": "Natural Classic",
+                    "header_size": "h3",
+                    "align": "left",
+                    "title_color": "#362720",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cinzel",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "500",
+                    "typography_text_transform": "none"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "abcbc763",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "60 mins · +$10 add on cashmere",
+                    "align": "left",
+                    "text_color": "#8F6F63",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 13,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "4e71414b",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "Enhance your eyes with a delicate and elegant set of lashes for a fresh, natural appearance. Around 60–70 extensions per eye are applied to create a soft, lightweight look.",
+                    "align": "left",
+                    "text_color": "#5E5E5E",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "d6402d83",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 22,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "3c3ae9c5",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "Full set: $95<br>2 week Refill: $65<br>3 week Refill: $75",
+                    "text_color": "#8F6F63",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Libre Baskerville",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "typography_font_style": "italic"
+                  },
+                  "elements": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "05bc5e0a",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "container_type": "flex",
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_direction_mobile": "column",
+            "flex_wrap": "nowrap",
+            "flex_wrap_mobile": "wrap",
+            "flex_gap": {
+              "column": "24",
+              "row": "24",
+              "unit": "px",
+              "isLinked": true,
+              "size": 24
+            },
+            "flex_align_items": "center",
+            "flex_justify_content": "flex-start",
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            }
+          },
+          "elements": [
+            {
+              "id": "9af3aea7",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 28,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "69f8992d",
+                  "elType": "widget",
+                  "widgetType": "image-carousel",
+                  "isInner": false,
+                  "settings": {
+                    "carousel": [
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/classic-glamour.jpg",
+                        "id": "",
+                        "alt": "Glamour Classic",
+                        "source": "url"
+                      },
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/classic-natural.jpg",
+                        "id": "",
+                        "alt": "Glamour Classic",
+                        "source": "url"
+                      }
+                    ],
+                    "slides_to_show": "1",
+                    "navigation": "arrows",
+                    "autoplay": "no",
+                    "image_stretch": "yes",
+                    "arrows_color": "#8F6F63"
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "a95db12d",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 44,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "85190395",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "isInner": false,
+                  "settings": {
+                    "title": "Glamour Classic",
+                    "header_size": "h3",
+                    "align": "left",
+                    "title_color": "#362720",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cinzel",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "500",
+                    "typography_text_transform": "none"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "1423cc79",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "75 mins · +$10 add on cashmere",
+                    "align": "left",
+                    "text_color": "#8F6F63",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 13,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "6e479caf",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "Individual lash extensions are carefully applied to each natural lash to create added length, fullness, and curl. This service lashes up to 90% of healthy, mature natural lashes, creating the perfect balance between natural and defined.",
+                    "align": "left",
+                    "text_color": "#5E5E5E",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "3c9b7499",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 22,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "b42ffa07",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "Full set: $115<br>2 week Refill: $80<br>3 week Refill: $90",
+                    "text_color": "#8F6F63",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Libre Baskerville",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "typography_font_style": "italic"
+                  },
+                  "elements": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9ebb0232",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "container_type": "flex",
+        "content_width": "boxed",
+        "boxed_width": {
+          "unit": "px",
+          "size": 1140,
+          "sizes": []
+        },
+        "flex_direction": "column",
+        "flex_align_items": "stretch",
+        "flex_gap": {
+          "column": "24",
+          "row": "24",
+          "unit": "px",
+          "isLinked": true,
+          "size": 24
+        },
+        "padding": {
+          "unit": "px",
+          "top": "40",
+          "right": "24",
+          "bottom": "40",
+          "left": "24",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "html_tag": "section"
+      },
+      "elements": [
+        {
+          "id": "d151caad",
+          "elType": "widget",
+          "widgetType": "heading",
+          "isInner": false,
+          "settings": {
+            "title": "Mixed between Classic & Volume Lashes",
+            "header_size": "h6",
+            "align": "center",
+            "title_color": "#8F6F63",
+            "typography_typography": "custom",
+            "typography_font_family": "Libre Baskerville",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 16,
+              "sizes": []
+            },
+            "typography_font_weight": "500",
+            "typography_text_transform": "none"
+          },
+          "elements": []
+        },
+        {
+          "id": "7058b1d6",
+          "elType": "widget",
+          "widgetType": "heading",
+          "isInner": false,
+          "settings": {
+            "title": "Hybrid Lashes",
+            "header_size": "h2",
+            "align": "center",
+            "title_color": "#362720",
+            "typography_typography": "custom",
+            "typography_font_family": "Cinzel",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 32,
+              "sizes": []
+            },
+            "typography_font_weight": "500",
+            "typography_text_transform": "none"
+          },
+          "elements": []
+        },
+        {
+          "id": "aae91636",
+          "elType": "widget",
+          "widgetType": "image",
+          "isInner": false,
+          "settings": {
+            "image": {
+              "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/collage-hybrid.jpg",
+              "id": "",
+              "alt": "Hybrid Lashes",
+              "source": "url"
+            },
+            "image_size": "full",
+            "align": "center",
+            "caption_source": "none"
+          },
+          "elements": []
+        },
+        {
+          "id": "3eb5aca8",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "container_type": "flex",
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_direction_mobile": "column",
+            "flex_wrap": "nowrap",
+            "flex_wrap_mobile": "wrap",
+            "flex_gap": {
+              "column": "24",
+              "row": "24",
+              "unit": "px",
+              "isLinked": true,
+              "size": 24
+            },
+            "flex_align_items": "center",
+            "flex_justify_content": "flex-start",
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            }
+          },
+          "elements": [
+            {
+              "id": "c920dca7",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 28,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "87be13fb",
+                  "elType": "widget",
+                  "widgetType": "image-carousel",
+                  "isInner": false,
+                  "settings": {
+                    "carousel": [
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/hybrid-natural.jpg",
+                        "id": "",
+                        "alt": "Natural Hybrid",
+                        "source": "url"
+                      },
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/hybrid-deluxe.jpg",
+                        "id": "",
+                        "alt": "Natural Hybrid",
+                        "source": "url"
+                      },
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/hybrid-wet.jpg",
+                        "id": "",
+                        "alt": "Natural Hybrid",
+                        "source": "url"
+                      }
+                    ],
+                    "slides_to_show": "1",
+                    "navigation": "arrows",
+                    "autoplay": "no",
+                    "image_stretch": "yes",
+                    "arrows_color": "#8F6F63"
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "baf18836",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 44,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "aa009fbd",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "isInner": false,
+                  "settings": {
+                    "title": "Natural Hybrid",
+                    "header_size": "h3",
+                    "align": "left",
+                    "title_color": "#362720",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cinzel",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "500",
+                    "typography_text_transform": "none"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "3ecc1374",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "90 mins · +$10 add on cashmere",
+                    "align": "left",
+                    "text_color": "#8F6F63",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 13,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "249847d5",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "A beautiful mix of classic and volume lashes for the perfect balance of definition and softness. Using individual lashes and lightweight 3D fans, this set creates a textured, fluffy, and naturally fuller look with effortless elegance.",
+                    "align": "left",
+                    "text_color": "#5E5E5E",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "4dfcce48",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 22,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "18e6d5f5",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "Full set: $135<br>2 week Refill: $90<br>3 week Refill: $105",
+                    "text_color": "#8F6F63",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Libre Baskerville",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "typography_font_style": "italic"
+                  },
+                  "elements": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "b1b658a0",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "container_type": "flex",
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_direction_mobile": "column",
+            "flex_wrap": "nowrap",
+            "flex_wrap_mobile": "wrap",
+            "flex_gap": {
+              "column": "24",
+              "row": "24",
+              "unit": "px",
+              "isLinked": true,
+              "size": 24
+            },
+            "flex_align_items": "center",
+            "flex_justify_content": "flex-start",
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            }
+          },
+          "elements": [
+            {
+              "id": "8d91fab7",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 28,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "a243c5da",
+                  "elType": "widget",
+                  "widgetType": "image-carousel",
+                  "isInner": false,
+                  "settings": {
+                    "carousel": [
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/hybrid-deluxe.jpg",
+                        "id": "",
+                        "alt": "Deluxe Hybrid",
+                        "source": "url"
+                      },
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/hybrid-wet.jpg",
+                        "id": "",
+                        "alt": "Deluxe Hybrid",
+                        "source": "url"
+                      },
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/hybrid-kimk.jpg",
+                        "id": "",
+                        "alt": "Deluxe Hybrid",
+                        "source": "url"
+                      }
+                    ],
+                    "slides_to_show": "1",
+                    "navigation": "arrows",
+                    "autoplay": "no",
+                    "image_stretch": "yes",
+                    "arrows_color": "#8F6F63"
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "f3617fd0",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 44,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "0d61bd03",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "isInner": false,
+                  "settings": {
+                    "title": "Deluxe Hybrid",
+                    "header_size": "h3",
+                    "align": "left",
+                    "title_color": "#362720",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cinzel",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "500",
+                    "typography_text_transform": "none"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "c2b549ad",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "90 mins",
+                    "align": "left",
+                    "text_color": "#8F6F63",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 13,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "f6346724",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "A fuller, more glamorous hybrid set that combines classic lashes with 5D volume fans. This technique creates a soft yet dense finish, adding beautiful fullness, texture, and depth while still keeping a lightweight and fluttery feel.",
+                    "align": "left",
+                    "text_color": "#5E5E5E",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "797bb489",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 22,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "ffaf7c9f",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "Full set: $155<br>2 week Refill: $100<br>3 week Refill: $115<br>4 week Refill: $135",
+                    "text_color": "#8F6F63",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Libre Baskerville",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "typography_font_style": "italic"
+                  },
+                  "elements": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "0773f784",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "container_type": "flex",
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_direction_mobile": "column",
+            "flex_wrap": "nowrap",
+            "flex_wrap_mobile": "wrap",
+            "flex_gap": {
+              "column": "24",
+              "row": "24",
+              "unit": "px",
+              "isLinked": true,
+              "size": 24
+            },
+            "flex_align_items": "center",
+            "flex_justify_content": "flex-start",
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            }
+          },
+          "elements": [
+            {
+              "id": "1a7c079c",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 28,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "018c0da7",
+                  "elType": "widget",
+                  "widgetType": "image-carousel",
+                  "isInner": false,
+                  "settings": {
+                    "carousel": [
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/hybrid-wet.jpg",
+                        "id": "",
+                        "alt": "Wispy Wet Look",
+                        "source": "url"
+                      },
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/hybrid-deluxe.jpg",
+                        "id": "",
+                        "alt": "Wispy Wet Look",
+                        "source": "url"
+                      },
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/hybrid-kimk.jpg",
+                        "id": "",
+                        "alt": "Wispy Wet Look",
+                        "source": "url"
+                      }
+                    ],
+                    "slides_to_show": "1",
+                    "navigation": "arrows",
+                    "autoplay": "no",
+                    "image_stretch": "yes",
+                    "arrows_color": "#8F6F63"
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "72b03295",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 44,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "e94b55f9",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "isInner": false,
+                  "settings": {
+                    "title": "Wispy Wet Look",
+                    "header_size": "h3",
+                    "align": "left",
+                    "title_color": "#362720",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cinzel",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "500",
+                    "typography_text_transform": "none"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "c9faf372",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "90 mins",
+                    "align": "left",
+                    "text_color": "#8F6F63",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 13,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "7f7a5935",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "A textured, modern lash style that creates a soft “wet mascara” effect with added wispy definition. This set is achieved using narrow closed volume fans (4–5D), where 4–5 lightweight lash fibres are placed closely together and applied to each natural lash.",
+                    "align": "left",
+                    "text_color": "#5E5E5E",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "575e836c",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 22,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "60c077fb",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "Full set: $155<br>2 week Refill: $100<br>3 week Refill: $115<br>4 week Refill: $135",
+                    "text_color": "#8F6F63",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Libre Baskerville",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "typography_font_style": "italic"
+                  },
+                  "elements": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "f23264e2",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "container_type": "flex",
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_direction_mobile": "column",
+            "flex_wrap": "nowrap",
+            "flex_wrap_mobile": "wrap",
+            "flex_gap": {
+              "column": "24",
+              "row": "24",
+              "unit": "px",
+              "isLinked": true,
+              "size": 24
+            },
+            "flex_align_items": "center",
+            "flex_justify_content": "flex-start",
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            }
+          },
+          "elements": [
+            {
+              "id": "50b207c8",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 28,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "d4a3a57c",
+                  "elType": "widget",
+                  "widgetType": "image-carousel",
+                  "isInner": false,
+                  "settings": {
+                    "carousel": [
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/hybrid-kimk.jpg",
+                        "id": "",
+                        "alt": "Textured Kim K",
+                        "source": "url"
+                      },
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/hybrid-wet.jpg",
+                        "id": "",
+                        "alt": "Textured Kim K",
+                        "source": "url"
+                      },
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/hybrid-deluxe.jpg",
+                        "id": "",
+                        "alt": "Textured Kim K",
+                        "source": "url"
+                      }
+                    ],
+                    "slides_to_show": "1",
+                    "navigation": "arrows",
+                    "autoplay": "no",
+                    "image_stretch": "yes",
+                    "arrows_color": "#8F6F63"
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "1000dde3",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 44,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "380189a2",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "isInner": false,
+                  "settings": {
+                    "title": "Textured Kim K",
+                    "header_size": "h3",
+                    "align": "left",
+                    "title_color": "#362720",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cinzel",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "500",
+                    "typography_text_transform": "none"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "bb781f12",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "105 mins",
+                    "align": "left",
+                    "text_color": "#8F6F63",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 13,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "ae1aacee",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "A wispy, spiky lash style inspired by a strip-lash look. It combines 7D volume fans and longer spikes in mixed lengths to create a bold, textured, and glamorous finish with beautiful definition and dimension.",
+                    "align": "left",
+                    "text_color": "#5E5E5E",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "ca806513",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 22,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "343dcaea",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "Full set: $185<br>2 week Refill: $120<br>3 week Refill: $135<br>4 week Refill: $155",
+                    "text_color": "#8F6F63",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Libre Baskerville",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "typography_font_style": "italic"
+                  },
+                  "elements": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2fd779ca",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "container_type": "flex",
+        "content_width": "boxed",
+        "boxed_width": {
+          "unit": "px",
+          "size": 1140,
+          "sizes": []
+        },
+        "flex_direction": "column",
+        "flex_align_items": "stretch",
+        "flex_gap": {
+          "column": "24",
+          "row": "24",
+          "unit": "px",
+          "isLinked": true,
+          "size": 24
+        },
+        "padding": {
+          "unit": "px",
+          "top": "40",
+          "right": "24",
+          "bottom": "40",
+          "left": "24",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "html_tag": "section"
+      },
+      "elements": [
+        {
+          "id": "e305a8f9",
+          "elType": "widget",
+          "widgetType": "heading",
+          "isInner": false,
+          "settings": {
+            "title": "Lightweight fans for a fuller finish",
+            "header_size": "h6",
+            "align": "center",
+            "title_color": "#8F6F63",
+            "typography_typography": "custom",
+            "typography_font_family": "Libre Baskerville",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 16,
+              "sizes": []
+            },
+            "typography_font_weight": "500",
+            "typography_text_transform": "none"
+          },
+          "elements": []
+        },
+        {
+          "id": "e43249d0",
+          "elType": "widget",
+          "widgetType": "heading",
+          "isInner": false,
+          "settings": {
+            "title": "Volume Lashes",
+            "header_size": "h2",
+            "align": "center",
+            "title_color": "#362720",
+            "typography_typography": "custom",
+            "typography_font_family": "Cinzel",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 32,
+              "sizes": []
+            },
+            "typography_font_weight": "500",
+            "typography_text_transform": "none"
+          },
+          "elements": []
+        },
+        {
+          "id": "c6f5f436",
+          "elType": "widget",
+          "widgetType": "image",
+          "isInner": false,
+          "settings": {
+            "image": {
+              "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/collage-volume.jpg",
+              "id": "",
+              "alt": "Volume Lashes",
+              "source": "url"
+            },
+            "image_size": "full",
+            "align": "center",
+            "caption_source": "none"
+          },
+          "elements": []
+        },
+        {
+          "id": "b8901bd8",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "container_type": "flex",
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_direction_mobile": "column",
+            "flex_wrap": "nowrap",
+            "flex_wrap_mobile": "wrap",
+            "flex_gap": {
+              "column": "24",
+              "row": "24",
+              "unit": "px",
+              "isLinked": true,
+              "size": 24
+            },
+            "flex_align_items": "center",
+            "flex_justify_content": "flex-start",
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            }
+          },
+          "elements": [
+            {
+              "id": "7e98f8ec",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 28,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "d6d00ce3",
+                  "elType": "widget",
+                  "widgetType": "image-carousel",
+                  "isInner": false,
+                  "settings": {
+                    "carousel": [
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/volume-3d.jpg",
+                        "id": "",
+                        "alt": "Natural Volume 3D",
+                        "source": "url"
+                      },
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/volume-5d.jpg",
+                        "id": "",
+                        "alt": "Natural Volume 3D",
+                        "source": "url"
+                      },
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/volume-7d.jpg",
+                        "id": "",
+                        "alt": "Natural Volume 3D",
+                        "source": "url"
+                      }
+                    ],
+                    "slides_to_show": "1",
+                    "navigation": "arrows",
+                    "autoplay": "no",
+                    "image_stretch": "yes",
+                    "arrows_color": "#8F6F63"
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "37686f20",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 44,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "81998fd6",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "isInner": false,
+                  "settings": {
+                    "title": "Natural Volume 3D",
+                    "header_size": "h3",
+                    "align": "left",
+                    "title_color": "#362720",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cinzel",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "500",
+                    "typography_text_transform": "none"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "45c94474",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "90 mins",
+                    "align": "left",
+                    "text_color": "#8F6F63",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 13,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "42fed989",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "Created by applying 3 lightweight lash fibres per natural lash to form a soft fan. This set gives a natural, light, and softly enhanced fullness, perfect for an everyday elegant look.",
+                    "align": "left",
+                    "text_color": "#5E5E5E",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "559b1f15",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 22,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "5bed24d2",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "Full set: $135<br>2 week Refill: $90<br>3 week Refill: $105",
+                    "text_color": "#8F6F63",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Libre Baskerville",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "typography_font_style": "italic"
+                  },
+                  "elements": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "58204c7f",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "container_type": "flex",
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_direction_mobile": "column",
+            "flex_wrap": "nowrap",
+            "flex_wrap_mobile": "wrap",
+            "flex_gap": {
+              "column": "24",
+              "row": "24",
+              "unit": "px",
+              "isLinked": true,
+              "size": 24
+            },
+            "flex_align_items": "center",
+            "flex_justify_content": "flex-start",
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            }
+          },
+          "elements": [
+            {
+              "id": "c74c4394",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 28,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "41af223b",
+                  "elType": "widget",
+                  "widgetType": "image-carousel",
+                  "isInner": false,
+                  "settings": {
+                    "carousel": [
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/volume-5d.jpg",
+                        "id": "",
+                        "alt": "Deluxe Volume 5D",
+                        "source": "url"
+                      },
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/volume-7d.jpg",
+                        "id": "",
+                        "alt": "Deluxe Volume 5D",
+                        "source": "url"
+                      },
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/volume-10d.jpg",
+                        "id": "",
+                        "alt": "Deluxe Volume 5D",
+                        "source": "url"
+                      }
+                    ],
+                    "slides_to_show": "1",
+                    "navigation": "arrows",
+                    "autoplay": "no",
+                    "image_stretch": "yes",
+                    "arrows_color": "#8F6F63"
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "5f016b61",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 44,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "068b0067",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "isInner": false,
+                  "settings": {
+                    "title": "Deluxe Volume 5D",
+                    "header_size": "h3",
+                    "align": "left",
+                    "title_color": "#362720",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cinzel",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "500",
+                    "typography_text_transform": "none"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "07db9366",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "90 mins",
+                    "align": "left",
+                    "text_color": "#8F6F63",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 13,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "3dae759d",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "Using 5 lash fibres per natural lash to create fuller fans. It delivers a noticeably bolder, fluffier, and more glamorous look while still maintaining softness.",
+                    "align": "left",
+                    "text_color": "#5E5E5E",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "656f3efb",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 22,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "829ec0fb",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "Full set: $155<br>2 week Refill: $100<br>3 week Refill: $115<br>4 week Refill: $135",
+                    "text_color": "#8F6F63",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Libre Baskerville",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "typography_font_style": "italic"
+                  },
+                  "elements": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "0b7f02fa",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "container_type": "flex",
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_direction_mobile": "column",
+            "flex_wrap": "nowrap",
+            "flex_wrap_mobile": "wrap",
+            "flex_gap": {
+              "column": "24",
+              "row": "24",
+              "unit": "px",
+              "isLinked": true,
+              "size": 24
+            },
+            "flex_align_items": "center",
+            "flex_justify_content": "flex-start",
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            }
+          },
+          "elements": [
+            {
+              "id": "c932315a",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 28,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "72d0a66d",
+                  "elType": "widget",
+                  "widgetType": "image-carousel",
+                  "isInner": false,
+                  "settings": {
+                    "carousel": [
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/volume-7d.jpg",
+                        "id": "",
+                        "alt": "Dramatic Volume 7D",
+                        "source": "url"
+                      },
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/volume-10d.jpg",
+                        "id": "",
+                        "alt": "Dramatic Volume 7D",
+                        "source": "url"
+                      },
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/volume-5d.jpg",
+                        "id": "",
+                        "alt": "Dramatic Volume 7D",
+                        "source": "url"
+                      }
+                    ],
+                    "slides_to_show": "1",
+                    "navigation": "arrows",
+                    "autoplay": "no",
+                    "image_stretch": "yes",
+                    "arrows_color": "#8F6F63"
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "f1400b78",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 44,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "f4836d42",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "isInner": false,
+                  "settings": {
+                    "title": "Dramatic Volume 7D",
+                    "header_size": "h3",
+                    "align": "left",
+                    "title_color": "#362720",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cinzel",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "500",
+                    "typography_text_transform": "none"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "dcdc0ccb",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "90 mins",
+                    "align": "left",
+                    "text_color": "#8F6F63",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 13,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "1372b115",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "Applies 7 ultra-fine lash fibres per natural lash for a denser, more defined fan. This set gives a dramatic, full, and luxurious appearance with strong volume and depth.",
+                    "align": "left",
+                    "text_color": "#5E5E5E",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "7994c032",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 22,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "a3d70d5e",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "Full set: $175<br>2 week Refill: $115<br>3 week Refill: $130<br>4 week Refill: $150",
+                    "text_color": "#8F6F63",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Libre Baskerville",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "typography_font_style": "italic"
+                  },
+                  "elements": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "075b9d1b",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "container_type": "flex",
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_direction_mobile": "column",
+            "flex_wrap": "nowrap",
+            "flex_wrap_mobile": "wrap",
+            "flex_gap": {
+              "column": "24",
+              "row": "24",
+              "unit": "px",
+              "isLinked": true,
+              "size": 24
+            },
+            "flex_align_items": "center",
+            "flex_justify_content": "flex-start",
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            }
+          },
+          "elements": [
+            {
+              "id": "a3209dfa",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 28,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "25c71413",
+                  "elType": "widget",
+                  "widgetType": "image-carousel",
+                  "isInner": false,
+                  "settings": {
+                    "carousel": [
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/volume-10d.jpg",
+                        "id": "",
+                        "alt": "Mega Volume 10D",
+                        "source": "url"
+                      },
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/volume-7d.jpg",
+                        "id": "",
+                        "alt": "Mega Volume 10D",
+                        "source": "url"
+                      },
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/volume-5d.jpg",
+                        "id": "",
+                        "alt": "Mega Volume 10D",
+                        "source": "url"
+                      }
+                    ],
+                    "slides_to_show": "1",
+                    "navigation": "arrows",
+                    "autoplay": "no",
+                    "image_stretch": "yes",
+                    "arrows_color": "#8F6F63"
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "7d53611f",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 44,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "276e4b5b",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "isInner": false,
+                  "settings": {
+                    "title": "Mega Volume 10D",
+                    "header_size": "h3",
+                    "align": "left",
+                    "title_color": "#362720",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cinzel",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "500",
+                    "typography_text_transform": "none"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "610a91ab",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "105 mins",
+                    "align": "left",
+                    "text_color": "#8F6F63",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 13,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "9007164a",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "Created with 10 ultra-fine lash fibres per natural lash, forming a dense, ultra-full fan. This style provides an intense, dark, and high-impact dramatic look for maximum volume and definition.",
+                    "align": "left",
+                    "text_color": "#5E5E5E",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "bbfdef59",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 22,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "c57da8e4",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "Full set: $205<br>2 week Refill: $130<br>3 week Refill: $145<br>4 week Refill: $165",
+                    "text_color": "#8F6F63",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Libre Baskerville",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "typography_font_style": "italic"
+                  },
+                  "elements": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "afddc6b5",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "container_type": "flex",
+        "content_width": "boxed",
+        "boxed_width": {
+          "unit": "px",
+          "size": 1140,
+          "sizes": []
+        },
+        "flex_direction": "column",
+        "flex_align_items": "stretch",
+        "flex_gap": {
+          "column": "24",
+          "row": "24",
+          "unit": "px",
+          "isLinked": true,
+          "size": 24
+        },
+        "padding": {
+          "unit": "px",
+          "top": "40",
+          "right": "24",
+          "bottom": "40",
+          "left": "24",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#F8F2F1",
+        "html_tag": "section"
+      },
+      "elements": [
+        {
+          "id": "c1ca03bf",
+          "elType": "widget",
+          "widgetType": "heading",
+          "isInner": false,
+          "settings": {
+            "title": "Add-ons & extras",
+            "header_size": "h6",
+            "align": "center",
+            "title_color": "#8F6F63",
+            "typography_typography": "custom",
+            "typography_font_family": "Libre Baskerville",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 16,
+              "sizes": []
+            },
+            "typography_font_weight": "500",
+            "typography_text_transform": "none"
+          },
+          "elements": []
+        },
+        {
+          "id": "be1a239f",
+          "elType": "widget",
+          "widgetType": "heading",
+          "isInner": false,
+          "settings": {
+            "title": "Lash Lifts, Brows & More",
+            "header_size": "h2",
+            "align": "center",
+            "title_color": "#362720",
+            "typography_typography": "custom",
+            "typography_font_family": "Cinzel",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 32,
+              "sizes": []
+            },
+            "typography_font_weight": "500",
+            "typography_text_transform": "none"
+          },
+          "elements": []
+        },
+        {
+          "id": "80188586",
+          "elType": "widget",
+          "widgetType": "image",
+          "isInner": false,
+          "settings": {
+            "image": {
+              "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/collage-lift.jpg",
+              "id": "",
+              "alt": "Lash Lift",
+              "source": "url"
+            },
+            "image_size": "full",
+            "align": "center",
+            "caption_source": "none"
+          },
+          "elements": []
+        },
+        {
+          "id": "5bcc00db",
+          "elType": "widget",
+          "widgetType": "image",
+          "isInner": false,
+          "settings": {
+            "image": {
+              "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/collage-brow.jpg",
+              "id": "",
+              "alt": "Brow Sculpting",
+              "source": "url"
+            },
+            "image_size": "full",
+            "align": "center",
+            "caption_source": "none"
+          },
+          "elements": []
+        },
+        {
+          "id": "e822cd15",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "container_type": "flex",
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_direction_mobile": "column",
+            "flex_wrap": "nowrap",
+            "flex_wrap_mobile": "wrap",
+            "flex_gap": {
+              "column": "24",
+              "row": "24",
+              "unit": "px",
+              "isLinked": true,
+              "size": 24
+            },
+            "flex_align_items": "center",
+            "flex_justify_content": "flex-start",
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            }
+          },
+          "elements": [
+            {
+              "id": "e1692725",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 28,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "a422f2ca",
+                  "elType": "widget",
+                  "widgetType": "image-carousel",
+                  "isInner": false,
+                  "settings": {
+                    "carousel": [
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/lift-01.jpg",
+                        "id": "",
+                        "alt": "Lash Lift",
+                        "source": "url"
+                      },
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/lift-02.jpg",
+                        "id": "",
+                        "alt": "Lash Lift",
+                        "source": "url"
+                      },
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/lift-03.jpg",
+                        "id": "",
+                        "alt": "Lash Lift",
+                        "source": "url"
+                      },
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/lift-04.jpg",
+                        "id": "",
+                        "alt": "Lash Lift",
+                        "source": "url"
+                      }
+                    ],
+                    "slides_to_show": "1",
+                    "navigation": "arrows",
+                    "autoplay": "no",
+                    "image_stretch": "yes",
+                    "arrows_color": "#8F6F63"
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "5b41b04f",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 44,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "08c35c53",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "isInner": false,
+                  "settings": {
+                    "title": "Lash Lift",
+                    "header_size": "h3",
+                    "align": "left",
+                    "title_color": "#362720",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cinzel",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "500",
+                    "typography_text_transform": "none"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "153cfb88",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "",
+                    "align": "left",
+                    "text_color": "#8F6F63",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 13,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "f13e05a0",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "Lift and curl your natural lashes for a wide-awake look that lasts several weeks — no extensions needed.",
+                    "align": "left",
+                    "text_color": "#5E5E5E",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "bf3de979",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 22,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "48badd23",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "Price: $75",
+                    "text_color": "#8F6F63",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Libre Baskerville",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "typography_font_style": "italic"
+                  },
+                  "elements": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4b5e5f84",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "container_type": "flex",
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_direction_mobile": "column",
+            "flex_wrap": "nowrap",
+            "flex_wrap_mobile": "wrap",
+            "flex_gap": {
+              "column": "24",
+              "row": "24",
+              "unit": "px",
+              "isLinked": true,
+              "size": 24
+            },
+            "flex_align_items": "center",
+            "flex_justify_content": "flex-start",
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            }
+          },
+          "elements": [
+            {
+              "id": "47273d30",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 28,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "d7eea764",
+                  "elType": "widget",
+                  "widgetType": "image-carousel",
+                  "isInner": false,
+                  "settings": {
+                    "carousel": [
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/lift-01.jpg",
+                        "id": "",
+                        "alt": "Lash Lift & Tint + Keratine",
+                        "source": "url"
+                      },
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/lift-02.jpg",
+                        "id": "",
+                        "alt": "Lash Lift & Tint + Keratine",
+                        "source": "url"
+                      },
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/lift-03.jpg",
+                        "id": "",
+                        "alt": "Lash Lift & Tint + Keratine",
+                        "source": "url"
+                      },
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/lift-04.jpg",
+                        "id": "",
+                        "alt": "Lash Lift & Tint + Keratine",
+                        "source": "url"
+                      }
+                    ],
+                    "slides_to_show": "1",
+                    "navigation": "arrows",
+                    "autoplay": "no",
+                    "image_stretch": "yes",
+                    "arrows_color": "#8F6F63"
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "3b31ae69",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 44,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "0da9c7f8",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "isInner": false,
+                  "settings": {
+                    "title": "Lash Lift & Tint + Keratine",
+                    "header_size": "h3",
+                    "align": "left",
+                    "title_color": "#362720",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cinzel",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "500",
+                    "typography_text_transform": "none"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "80369a58",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "",
+                    "align": "left",
+                    "text_color": "#8F6F63",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 13,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "b08b95bc",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "Lash lift with a tint and keratin treatment to darken, nourish and define your natural lashes.",
+                    "align": "left",
+                    "text_color": "#5E5E5E",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "60ea6e1f",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 22,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "3442c472",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "Price: $90",
+                    "text_color": "#8F6F63",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Libre Baskerville",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "typography_font_style": "italic"
+                  },
+                  "elements": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "e80e56de",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "container_type": "flex",
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_direction_mobile": "column",
+            "flex_wrap": "nowrap",
+            "flex_wrap_mobile": "wrap",
+            "flex_gap": {
+              "column": "24",
+              "row": "24",
+              "unit": "px",
+              "isLinked": true,
+              "size": 24
+            },
+            "flex_align_items": "center",
+            "flex_justify_content": "flex-start",
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            }
+          },
+          "elements": [
+            {
+              "id": "de4a8317",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 28,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "fb38546e",
+                  "elType": "widget",
+                  "widgetType": "image-carousel",
+                  "isInner": false,
+                  "settings": {
+                    "carousel": [
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/lift-01.jpg",
+                        "id": "",
+                        "alt": "Lash Tint",
+                        "source": "url"
+                      },
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/lift-02.jpg",
+                        "id": "",
+                        "alt": "Lash Tint",
+                        "source": "url"
+                      },
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/lift-03.jpg",
+                        "id": "",
+                        "alt": "Lash Tint",
+                        "source": "url"
+                      },
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/lift-04.jpg",
+                        "id": "",
+                        "alt": "Lash Tint",
+                        "source": "url"
+                      }
+                    ],
+                    "slides_to_show": "1",
+                    "navigation": "arrows",
+                    "autoplay": "no",
+                    "image_stretch": "yes",
+                    "arrows_color": "#8F6F63"
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "1b0a81a6",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 44,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "a01cee44",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "isInner": false,
+                  "settings": {
+                    "title": "Lash Tint",
+                    "header_size": "h3",
+                    "align": "left",
+                    "title_color": "#362720",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cinzel",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "500",
+                    "typography_text_transform": "none"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "fd2ceb9c",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "",
+                    "align": "left",
+                    "text_color": "#8F6F63",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 13,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "f0ab4581",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "A gentle tint that darkens your natural lashes for extra definition without mascara.",
+                    "align": "left",
+                    "text_color": "#5E5E5E",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "e771231e",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 22,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "02436cf1",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "Price: $25",
+                    "text_color": "#8F6F63",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Libre Baskerville",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "typography_font_style": "italic"
+                  },
+                  "elements": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "e639fbdb",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "container_type": "flex",
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_direction_mobile": "column",
+            "flex_wrap": "nowrap",
+            "flex_wrap_mobile": "wrap",
+            "flex_gap": {
+              "column": "24",
+              "row": "24",
+              "unit": "px",
+              "isLinked": true,
+              "size": 24
+            },
+            "flex_align_items": "center",
+            "flex_justify_content": "flex-start",
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            }
+          },
+          "elements": [
+            {
+              "id": "c57ed719",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 28,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "34890492",
+                  "elType": "widget",
+                  "widgetType": "image-carousel",
+                  "isInner": false,
+                  "settings": {
+                    "carousel": [
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/brow-wax.jpg",
+                        "id": "",
+                        "alt": "Brow Wax",
+                        "source": "url"
+                      },
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/brow-styling.jpg",
+                        "id": "",
+                        "alt": "Brow Wax",
+                        "source": "url"
+                      }
+                    ],
+                    "slides_to_show": "1",
+                    "navigation": "arrows",
+                    "autoplay": "no",
+                    "image_stretch": "yes",
+                    "arrows_color": "#8F6F63"
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "8bb08b8d",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 44,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "3354668b",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "isInner": false,
+                  "settings": {
+                    "title": "Brow Wax",
+                    "header_size": "h3",
+                    "align": "left",
+                    "title_color": "#362720",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cinzel",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "500",
+                    "typography_text_transform": "none"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "0d985016",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "",
+                    "align": "left",
+                    "text_color": "#8F6F63",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 13,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "83ccf265",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "Clean, shaped brows with a precise wax to tidy the arch and highlight your natural brow line.",
+                    "align": "left",
+                    "text_color": "#5E5E5E",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "ec2f6cf9",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 22,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "e5d64884",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "Price: $25",
+                    "text_color": "#8F6F63",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Libre Baskerville",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "typography_font_style": "italic"
+                  },
+                  "elements": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "b78a50cb",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "container_type": "flex",
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_direction_mobile": "column",
+            "flex_wrap": "nowrap",
+            "flex_wrap_mobile": "wrap",
+            "flex_gap": {
+              "column": "24",
+              "row": "24",
+              "unit": "px",
+              "isLinked": true,
+              "size": 24
+            },
+            "flex_align_items": "center",
+            "flex_justify_content": "flex-start",
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            }
+          },
+          "elements": [
+            {
+              "id": "e72e8738",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 28,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "cd502e1d",
+                  "elType": "widget",
+                  "widgetType": "image-carousel",
+                  "isInner": false,
+                  "settings": {
+                    "carousel": [
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/brow-tint.jpg",
+                        "id": "",
+                        "alt": "Brow Tint",
+                        "source": "url"
+                      },
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/brow-styling.jpg",
+                        "id": "",
+                        "alt": "Brow Tint",
+                        "source": "url"
+                      }
+                    ],
+                    "slides_to_show": "1",
+                    "navigation": "arrows",
+                    "autoplay": "no",
+                    "image_stretch": "yes",
+                    "arrows_color": "#8F6F63"
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "7247564f",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 44,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "57062e1a",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "isInner": false,
+                  "settings": {
+                    "title": "Brow Tint",
+                    "header_size": "h3",
+                    "align": "left",
+                    "title_color": "#362720",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cinzel",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "500",
+                    "typography_text_transform": "none"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "470d255e",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "",
+                    "align": "left",
+                    "text_color": "#8F6F63",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 13,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "0eb4a8ee",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "Tint fills sparse areas and adds depth so brows look fuller and more defined.",
+                    "align": "left",
+                    "text_color": "#5E5E5E",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "b8f8597a",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 22,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "3ea8b0d7",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "Price: $30",
+                    "text_color": "#8F6F63",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Libre Baskerville",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "typography_font_style": "italic"
+                  },
+                  "elements": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "f2a845c3",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "container_type": "flex",
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_direction_mobile": "column",
+            "flex_wrap": "nowrap",
+            "flex_wrap_mobile": "wrap",
+            "flex_gap": {
+              "column": "24",
+              "row": "24",
+              "unit": "px",
+              "isLinked": true,
+              "size": 24
+            },
+            "flex_align_items": "center",
+            "flex_justify_content": "flex-start",
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            }
+          },
+          "elements": [
+            {
+              "id": "5e938e09",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 28,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "260e4146",
+                  "elType": "widget",
+                  "widgetType": "image-carousel",
+                  "isInner": false,
+                  "settings": {
+                    "carousel": [
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/brow-styling.jpg",
+                        "id": "",
+                        "alt": "Brow Wax & Tint",
+                        "source": "url"
+                      },
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/brow-lamination.jpg",
+                        "id": "",
+                        "alt": "Brow Wax & Tint",
+                        "source": "url"
+                      },
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/brow-wax.jpg",
+                        "id": "",
+                        "alt": "Brow Wax & Tint",
+                        "source": "url"
+                      },
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/brow-tint.jpg",
+                        "id": "",
+                        "alt": "Brow Wax & Tint",
+                        "source": "url"
+                      }
+                    ],
+                    "slides_to_show": "1",
+                    "navigation": "arrows",
+                    "autoplay": "no",
+                    "image_stretch": "yes",
+                    "arrows_color": "#8F6F63"
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "63d0eafa",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 44,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "f46699d9",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "isInner": false,
+                  "settings": {
+                    "title": "Brow Wax & Tint",
+                    "header_size": "h3",
+                    "align": "left",
+                    "title_color": "#362720",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cinzel",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "500",
+                    "typography_text_transform": "none"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "2b27c6a5",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "",
+                    "align": "left",
+                    "text_color": "#8F6F63",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 13,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "b1ab0319",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "Shape and colour in one visit for neat, filled-in brows that frame the eyes.",
+                    "align": "left",
+                    "text_color": "#5E5E5E",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "256466b1",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 22,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "72988998",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "Price: $50",
+                    "text_color": "#8F6F63",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Libre Baskerville",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "typography_font_style": "italic"
+                  },
+                  "elements": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "74eb6d4a",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "container_type": "flex",
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_direction_mobile": "column",
+            "flex_wrap": "nowrap",
+            "flex_wrap_mobile": "wrap",
+            "flex_gap": {
+              "column": "24",
+              "row": "24",
+              "unit": "px",
+              "isLinked": true,
+              "size": 24
+            },
+            "flex_align_items": "center",
+            "flex_justify_content": "flex-start",
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            }
+          },
+          "elements": [
+            {
+              "id": "9c205efa",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 28,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "62ceb477",
+                  "elType": "widget",
+                  "widgetType": "image-carousel",
+                  "isInner": false,
+                  "settings": {
+                    "carousel": [
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/brow-lamination.jpg",
+                        "id": "",
+                        "alt": "Brow Lamination (with wax and tint)",
+                        "source": "url"
+                      },
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/brow-styling.jpg",
+                        "id": "",
+                        "alt": "Brow Lamination (with wax and tint)",
+                        "source": "url"
+                      }
+                    ],
+                    "slides_to_show": "1",
+                    "navigation": "arrows",
+                    "autoplay": "no",
+                    "image_stretch": "yes",
+                    "arrows_color": "#8F6F63"
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "445b8da1",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 44,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "1e80286c",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "isInner": false,
+                  "settings": {
+                    "title": "Brow Lamination (with wax and tint)",
+                    "header_size": "h3",
+                    "align": "left",
+                    "title_color": "#362720",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cinzel",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "500",
+                    "typography_text_transform": "none"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "73f93015",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "",
+                    "align": "left",
+                    "text_color": "#8F6F63",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 13,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "8a42e655",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "Brow lamination with wax and tint to brush hairs into place, fill gaps and create a soft laminated finish.",
+                    "align": "left",
+                    "text_color": "#5E5E5E",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "a2e7df35",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 22,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "e8933a94",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "Price: $90",
+                    "text_color": "#8F6F63",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Libre Baskerville",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "typography_font_style": "italic"
+                  },
+                  "elements": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "55621cc5",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "container_type": "flex",
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_direction_mobile": "column",
+            "flex_wrap": "nowrap",
+            "flex_wrap_mobile": "wrap",
+            "flex_gap": {
+              "column": "24",
+              "row": "24",
+              "unit": "px",
+              "isLinked": true,
+              "size": 24
+            },
+            "flex_align_items": "center",
+            "flex_justify_content": "flex-start",
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            }
+          },
+          "elements": [
+            {
+              "id": "3c5d4ef2",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 28,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "73b70e0c",
+                  "elType": "widget",
+                  "widgetType": "image-carousel",
+                  "isInner": false,
+                  "settings": {
+                    "carousel": [
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/lift-01.jpg",
+                        "id": "",
+                        "alt": "Makeup Removal",
+                        "source": "url"
+                      },
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/lift-02.jpg",
+                        "id": "",
+                        "alt": "Makeup Removal",
+                        "source": "url"
+                      },
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/lift-03.jpg",
+                        "id": "",
+                        "alt": "Makeup Removal",
+                        "source": "url"
+                      },
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/lift-04.jpg",
+                        "id": "",
+                        "alt": "Makeup Removal",
+                        "source": "url"
+                      }
+                    ],
+                    "slides_to_show": "1",
+                    "navigation": "arrows",
+                    "autoplay": "no",
+                    "image_stretch": "yes",
+                    "arrows_color": "#8F6F63"
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "d0790a60",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 44,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "e69ade96",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "isInner": false,
+                  "settings": {
+                    "title": "Makeup Removal",
+                    "header_size": "h3",
+                    "align": "left",
+                    "title_color": "#362720",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cinzel",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "500",
+                    "typography_text_transform": "none"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "5ed6ceaa",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "",
+                    "align": "left",
+                    "text_color": "#8F6F63",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 13,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "b05fd884",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "Gentle eye make-up removal before a lash or brow treatment so we can use the full appointment time.",
+                    "align": "left",
+                    "text_color": "#5E5E5E",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "a3bcb93e",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 22,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "c58f8ebd",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "Price: $15",
+                    "text_color": "#8F6F63",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Libre Baskerville",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "typography_font_style": "italic"
+                  },
+                  "elements": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "be7f3818",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "container_type": "flex",
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_direction_mobile": "column",
+            "flex_wrap": "nowrap",
+            "flex_wrap_mobile": "wrap",
+            "flex_gap": {
+              "column": "24",
+              "row": "24",
+              "unit": "px",
+              "isLinked": true,
+              "size": 24
+            },
+            "flex_align_items": "center",
+            "flex_justify_content": "flex-start",
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            }
+          },
+          "elements": [
+            {
+              "id": "b98a83c7",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 28,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "04c67665",
+                  "elType": "widget",
+                  "widgetType": "image-carousel",
+                  "isInner": false,
+                  "settings": {
+                    "carousel": [
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/classic-natural.jpg",
+                        "id": "",
+                        "alt": "Lash Extensions Removal (per 15 mins)",
+                        "source": "url"
+                      },
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/classic-glamour.jpg",
+                        "id": "",
+                        "alt": "Lash Extensions Removal (per 15 mins)",
+                        "source": "url"
+                      }
+                    ],
+                    "slides_to_show": "1",
+                    "navigation": "arrows",
+                    "autoplay": "no",
+                    "image_stretch": "yes",
+                    "arrows_color": "#8F6F63"
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "a84ba232",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 44,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "5e67f6c2",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "isInner": false,
+                  "settings": {
+                    "title": "Lash Extensions Removal (per 15 mins)",
+                    "header_size": "h3",
+                    "align": "left",
+                    "title_color": "#362720",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cinzel",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "500",
+                    "typography_text_transform": "none"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "89277e86",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "",
+                    "align": "left",
+                    "text_color": "#8F6F63",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 13,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "9758ee18",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "Safe professional removal of existing extensions. Charged per 15 minutes depending on the amount to remove.",
+                    "align": "left",
+                    "text_color": "#5E5E5E",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "4100e2df",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 22,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "94011a96",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "Price: $20",
+                    "text_color": "#8F6F63",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Libre Baskerville",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "typography_font_style": "italic"
+                  },
+                  "elements": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8ce0493b",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "container_type": "flex",
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_direction_mobile": "column",
+            "flex_wrap": "nowrap",
+            "flex_wrap_mobile": "wrap",
+            "flex_gap": {
+              "column": "24",
+              "row": "24",
+              "unit": "px",
+              "isLinked": true,
+              "size": 24
+            },
+            "flex_align_items": "center",
+            "flex_justify_content": "flex-start",
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            }
+          },
+          "elements": [
+            {
+              "id": "8eee2e64",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 28,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "1222d2a5",
+                  "elType": "widget",
+                  "widgetType": "image-carousel",
+                  "isInner": false,
+                  "settings": {
+                    "carousel": [
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/brow-styling.jpg",
+                        "id": "",
+                        "alt": "Patch Test",
+                        "source": "url"
+                      },
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/brow-lamination.jpg",
+                        "id": "",
+                        "alt": "Patch Test",
+                        "source": "url"
+                      },
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/brow-wax.jpg",
+                        "id": "",
+                        "alt": "Patch Test",
+                        "source": "url"
+                      },
+                      {
+                        "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/brow-tint.jpg",
+                        "id": "",
+                        "alt": "Patch Test",
+                        "source": "url"
+                      }
+                    ],
+                    "slides_to_show": "1",
+                    "navigation": "arrows",
+                    "autoplay": "no",
+                    "image_stretch": "yes",
+                    "arrows_color": "#8F6F63"
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "01fbb73f",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 44,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "1ffb090a",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "isInner": false,
+                  "settings": {
+                    "title": "Patch Test",
+                    "header_size": "h3",
+                    "align": "left",
+                    "title_color": "#362720",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cinzel",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "500",
+                    "typography_text_transform": "none"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "2202de9f",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "",
+                    "align": "left",
+                    "text_color": "#8F6F63",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 13,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "964bd1ec",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "Recommended before your first lash or tint service, especially if you have sensitive eyes or known allergies.",
+                    "align": "left",
+                    "text_color": "#5E5E5E",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "ccb17bc1",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 22,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "75d507e0",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "Price: $15",
+                    "text_color": "#8F6F63",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Libre Baskerville",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "typography_font_style": "italic"
+                  },
+                  "elements": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

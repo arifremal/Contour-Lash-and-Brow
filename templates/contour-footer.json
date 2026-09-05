@@ -1,0 +1,415 @@
+{
+  "title": "Contour — Footer",
+  "type": "page",
+  "version": "0.4",
+  "page_settings": {
+    "content_wrapper_html_tag": "footer",
+    "background_background": "classic",
+    "background_color": "#FEF6F4"
+  },
+  "content": [
+    {
+      "id": "13ea7815",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "container_type": "flex",
+        "content_width": "boxed",
+        "boxed_width": {
+          "unit": "px",
+          "size": 560,
+          "sizes": []
+        },
+        "flex_direction": "column",
+        "flex_align_items": "center",
+        "flex_gap": {
+          "column": "16",
+          "row": "16",
+          "unit": "px",
+          "isLinked": true,
+          "size": 16
+        },
+        "padding": {
+          "unit": "px",
+          "top": "48",
+          "right": "20",
+          "bottom": "36",
+          "left": "20",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#FEF6F4",
+        "html_tag": "footer"
+      },
+      "elements": [
+        {
+          "id": "fe61f966",
+          "elType": "widget",
+          "widgetType": "image",
+          "isInner": false,
+          "settings": {
+            "image": {
+              "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/logo.png",
+              "id": "",
+              "alt": "Contour Lash and Brow",
+              "source": "url"
+            },
+            "image_size": "full",
+            "align": "center",
+            "caption_source": "none"
+          },
+          "elements": []
+        },
+        {
+          "id": "3a094eef",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "isInner": false,
+          "settings": {
+            "editor": "Appointments only",
+            "align": "center",
+            "text_color": "#5E5E5E",
+            "typography_typography": "custom",
+            "typography_font_family": "Source Sans 3",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 16,
+              "sizes": []
+            }
+          },
+          "elements": []
+        },
+        {
+          "id": "038ba2c1",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "container_type": "flex",
+            "content_width": "full",
+            "flex_direction": "column",
+            "flex_gap": {
+              "column": "4",
+              "row": "4",
+              "unit": "px",
+              "isLinked": true,
+              "size": 4
+            },
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            },
+            "padding": {
+              "unit": "px",
+              "top": "22",
+              "right": "22",
+              "bottom": "14",
+              "left": "22",
+              "isLinked": false
+            },
+            "background_background": "classic",
+            "background_color": "#FFFFFF",
+            "border_radius": {
+              "unit": "px",
+              "top": "22",
+              "right": "22",
+              "bottom": "22",
+              "left": "22",
+              "isLinked": true
+            },
+            "box_shadow_box_shadow_type": "yes",
+            "box_shadow_box_shadow": {
+              "horizontal": 0,
+              "vertical": 10,
+              "blur": 28,
+              "spread": 0,
+              "color": "rgba(62,45,37,0.08)"
+            }
+          },
+          "elements": [
+            {
+              "id": "3f363c5b",
+              "elType": "widget",
+              "widgetType": "icon-box",
+              "isInner": false,
+              "settings": {
+                "selected_icon": {
+                  "value": "fas fa-clock",
+                  "library": "fa-solid"
+                },
+                "view": "default",
+                "title_text": "Opening Hours",
+                "description_text": "",
+                "position": "left",
+                "title_size": "span",
+                "primary_color": "#C4A574",
+                "title_color": "#C4A574",
+                "title_typography_typography": "custom",
+                "title_typography_font_family": "Cinzel",
+                "title_typography_font_size": {
+                  "unit": "px",
+                  "size": 15,
+                  "sizes": []
+                },
+                "title_typography_font_weight": "500",
+                "title_typography_text_transform": "uppercase",
+                "title_typography_letter_spacing": {
+                  "unit": "px",
+                  "size": 1.6,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "f824a84c",
+              "elType": "widget",
+              "widgetType": "html",
+              "isInner": false,
+              "settings": {
+                "html": "<div class=\"contour-hours\">\n  <div style=\"display:flex;justify-content:space-between;padding:12px 0;border-bottom:1px solid #EFE4DF;color:#5E5E5E;font-size:15px;\"><span>Mon – Fri</span><span>9am – 7pm</span></div>\n  <div style=\"display:flex;justify-content:space-between;padding:12px 0;border-bottom:1px solid #EFE4DF;color:#5E5E5E;font-size:15px;\"><span>Saturday</span><span>9am – 5pm</span></div>\n  <div style=\"display:flex;justify-content:space-between;padding:12px 0;color:#5E5E5E;font-size:15px;\"><span>Sunday</span><span>10am – 5pm</span></div>\n</div>"
+              },
+              "elements": []
+            }
+          ]
+        },
+        {
+          "id": "a06c66d4",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "container_type": "flex",
+            "content_width": "full",
+            "flex_direction": "column",
+            "flex_gap": {
+              "column": "4",
+              "row": "4",
+              "unit": "px",
+              "isLinked": true,
+              "size": 4
+            },
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            },
+            "padding": {
+              "unit": "px",
+              "top": "22",
+              "right": "22",
+              "bottom": "14",
+              "left": "22",
+              "isLinked": false
+            },
+            "background_background": "classic",
+            "background_color": "#FFFFFF",
+            "border_radius": {
+              "unit": "px",
+              "top": "22",
+              "right": "22",
+              "bottom": "22",
+              "left": "22",
+              "isLinked": true
+            },
+            "box_shadow_box_shadow_type": "yes",
+            "box_shadow_box_shadow": {
+              "horizontal": 0,
+              "vertical": 10,
+              "blur": 28,
+              "spread": 0,
+              "color": "rgba(62,45,37,0.08)"
+            }
+          },
+          "elements": [
+            {
+              "id": "df7ff64b",
+              "elType": "widget",
+              "widgetType": "icon-box",
+              "isInner": false,
+              "settings": {
+                "selected_icon": {
+                  "value": "fas fa-map-marker-alt",
+                  "library": "fa-solid"
+                },
+                "view": "default",
+                "title_text": "Contact & Location",
+                "description_text": "",
+                "position": "left",
+                "title_size": "span",
+                "primary_color": "#C4A574",
+                "title_color": "#C4A574",
+                "title_typography_typography": "custom",
+                "title_typography_font_family": "Cinzel",
+                "title_typography_font_size": {
+                  "unit": "px",
+                  "size": 15,
+                  "sizes": []
+                },
+                "title_typography_font_weight": "500",
+                "title_typography_text_transform": "uppercase",
+                "title_typography_letter_spacing": {
+                  "unit": "px",
+                  "size": 1.6,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "4a213a92",
+              "elType": "widget",
+              "widgetType": "html",
+              "isInner": false,
+              "settings": {
+                "html": "<div class=\"contour-contact\">\n  <div style=\"display:flex;gap:10px;align-items:center;padding:12px 0;border-bottom:1px solid #EFE4DF;\">\n    <i class=\"fas fa-phone\" style=\"color:#C4A574;width:18px;\"></i>\n    <a href=\"tel:0426194413\" style=\"color:#B0757A;text-decoration:none;font-weight:600;\">0426 194 413</a>\n  </div>\n  <div style=\"display:flex;gap:10px;align-items:center;padding:12px 0;border-bottom:1px solid #EFE4DF;\">\n    <i class=\"fas fa-envelope\" style=\"color:#C4A574;width:18px;\"></i>\n    <a href=\"mailto:Contourlashbrowperth@gmail.com\" style=\"color:#B0757A;text-decoration:none;font-weight:600;word-break:break-word;\">Contourlashbrowperth@gmail.com</a>\n  </div>\n  <div style=\"display:flex;gap:10px;align-items:flex-start;padding:12px 0;\">\n    <i class=\"fas fa-map-marker-alt\" style=\"color:#C4A574;width:18px;margin-top:3px;\"></i>\n    <div>\n      <a href=\"https://maps.app.goo.gl/aDccHGXCsRR9w7PR6\" target=\"_blank\" rel=\"noopener\" style=\"color:#B0757A;text-decoration:none;font-weight:600;\">2A/15-21 Collier Rd, Morley WA 6062</a>\n      <div style=\"color:#5E5E5E;font-size:14px;margin-top:2px;\">Inside Australian Cosmetic Hub</div>\n    </div>\n  </div>\n</div>"
+              },
+              "elements": []
+            }
+          ]
+        },
+        {
+          "id": "7cbd980d",
+          "elType": "widget",
+          "widgetType": "social-icons",
+          "isInner": false,
+          "settings": {
+            "social_icon_list": [
+              {
+                "_id": "89ae3c3a",
+                "social_icon": {
+                  "value": "fab fa-facebook-f",
+                  "library": "fa-brands"
+                },
+                "link": {
+                  "url": "https://www.facebook.com/people/Contour-Lash-and-Brow-Perth/61574393889689/",
+                  "is_external": "on",
+                  "nofollow": "",
+                  "custom_attributes": ""
+                }
+              },
+              {
+                "_id": "ad4f12f0",
+                "social_icon": {
+                  "value": "fab fa-instagram",
+                  "library": "fa-brands"
+                },
+                "link": {
+                  "url": "https://www.instagram.com/contourlashandbrow/",
+                  "is_external": "on",
+                  "nofollow": "",
+                  "custom_attributes": ""
+                }
+              },
+              {
+                "_id": "231f6789",
+                "social_icon": {
+                  "value": "fab fa-whatsapp",
+                  "library": "fa-brands"
+                },
+                "link": {
+                  "url": "https://wa.me/61426194413",
+                  "is_external": "on",
+                  "nofollow": "",
+                  "custom_attributes": ""
+                }
+              }
+            ],
+            "shape": "rounded",
+            "align": "center",
+            "icon_color": "custom",
+            "icon_primary_color": "#C4A574",
+            "icon_secondary_color": "rgba(0,0,0,0)",
+            "icon_size": {
+              "unit": "px",
+              "size": 15,
+              "sizes": []
+            },
+            "icon_padding": {
+              "unit": "px",
+              "size": 12,
+              "sizes": []
+            },
+            "border_border": "solid",
+            "border_width": {
+              "unit": "px",
+              "top": "1.5",
+              "right": "1.5",
+              "bottom": "1.5",
+              "left": "1.5",
+              "isLinked": true
+            },
+            "border_color": "#C4A574",
+            "border_radius": {
+              "unit": "%",
+              "top": "50",
+              "right": "50",
+              "bottom": "50",
+              "left": "50",
+              "isLinked": true
+            },
+            "hover_primary_color": "#FFFFFF",
+            "hover_secondary_color": "#C4A574"
+          },
+          "elements": []
+        },
+        {
+          "id": "d5899e88",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "isInner": false,
+          "settings": {
+            "editor": "<a href='/privacy-policy/' style='color:#B0757A;text-decoration:none;font-weight:600;'>Privacy Policy</a> &nbsp;<span style='color:#C4A574;'>•</span>&nbsp; ABN <span style='color:#B0757A;font-weight:600;'>66 187 638 042</span>",
+            "align": "center",
+            "text_color": "#5E5E5E",
+            "typography_typography": "custom",
+            "typography_font_family": "Source Sans 3",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 14,
+              "sizes": []
+            }
+          },
+          "elements": []
+        },
+        {
+          "id": "6c9e634b",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "isInner": false,
+          "settings": {
+            "editor": "© 2026 Contour Lash &amp; Brow",
+            "align": "center",
+            "text_color": "#5E5E5E",
+            "typography_typography": "custom",
+            "typography_font_family": "Source Sans 3",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 14,
+              "sizes": []
+            }
+          },
+          "elements": []
+        },
+        {
+          "id": "133757a6",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "isInner": false,
+          "settings": {
+            "editor": "Designed &amp; Developed by Weblyst",
+            "align": "center",
+            "text_color": "#5E5E5E",
+            "typography_typography": "custom",
+            "typography_font_family": "Source Sans 3",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 13,
+              "sizes": []
+            }
+          },
+          "elements": []
+        }
+      ]
+    }
+  ]
+}

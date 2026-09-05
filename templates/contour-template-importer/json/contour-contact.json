@@ -1,0 +1,468 @@
+{
+  "title": "Contour — Contact",
+  "type": "page",
+  "version": "0.4",
+  "page_settings": [],
+  "content": [
+    {
+      "id": "792a2d9c",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "container_type": "flex",
+        "content_width": "boxed",
+        "boxed_width": {
+          "unit": "px",
+          "size": 1140,
+          "sizes": []
+        },
+        "flex_direction": "column",
+        "flex_align_items": "stretch",
+        "flex_gap": {
+          "column": "24",
+          "row": "24",
+          "unit": "px",
+          "isLinked": true,
+          "size": 24
+        },
+        "padding": {
+          "unit": "px",
+          "top": "48",
+          "right": "24",
+          "bottom": "48",
+          "left": "24",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "html_tag": "section"
+      },
+      "elements": [
+        {
+          "id": "4d039ddd",
+          "elType": "widget",
+          "widgetType": "heading",
+          "isInner": false,
+          "settings": {
+            "title": "Get in touch",
+            "header_size": "h6",
+            "align": "center",
+            "title_color": "#8F6F63",
+            "typography_typography": "custom",
+            "typography_font_family": "Libre Baskerville",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 16,
+              "sizes": []
+            },
+            "typography_font_weight": "500",
+            "typography_text_transform": "none"
+          },
+          "elements": []
+        },
+        {
+          "id": "a04b81a8",
+          "elType": "widget",
+          "widgetType": "heading",
+          "isInner": false,
+          "settings": {
+            "title": "Contact Us",
+            "header_size": "h1",
+            "align": "center",
+            "title_color": "#362720",
+            "typography_typography": "custom",
+            "typography_font_family": "Cinzel",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 42,
+              "sizes": []
+            },
+            "typography_font_weight": "500",
+            "typography_text_transform": "none"
+          },
+          "elements": []
+        },
+        {
+          "id": "1b4f59b0",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "isInner": false,
+          "settings": {
+            "editor": "Questions about a lash style, a refill, or your first visit? Send us a message or book online.",
+            "align": "center",
+            "text_color": "#5E5E5E",
+            "typography_typography": "custom",
+            "typography_font_family": "Source Sans 3",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 16,
+              "sizes": []
+            }
+          },
+          "elements": []
+        }
+      ]
+    },
+    {
+      "id": "c60c4232",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "container_type": "flex",
+        "content_width": "boxed",
+        "boxed_width": {
+          "unit": "px",
+          "size": 1140,
+          "sizes": []
+        },
+        "flex_direction": "column",
+        "flex_align_items": "stretch",
+        "flex_gap": {
+          "column": "24",
+          "row": "24",
+          "unit": "px",
+          "isLinked": true,
+          "size": 24
+        },
+        "padding": {
+          "unit": "px",
+          "top": "72",
+          "right": "24",
+          "bottom": "72",
+          "left": "24",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "html_tag": "section"
+      },
+      "elements": [
+        {
+          "id": "63ec2abb",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "container_type": "flex",
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_direction_mobile": "column",
+            "flex_wrap": "nowrap",
+            "flex_wrap_mobile": "wrap",
+            "flex_gap": {
+              "column": "24",
+              "row": "24",
+              "unit": "px",
+              "isLinked": true,
+              "size": 24
+            },
+            "flex_align_items": "stretch",
+            "flex_justify_content": "flex-start",
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            }
+          },
+          "elements": [
+            {
+              "id": "127c5788",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 48,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "9c1eab77",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "isInner": false,
+                  "settings": {
+                    "title": "Salon details",
+                    "header_size": "h2",
+                    "align": "left",
+                    "title_color": "#362720",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cinzel",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 32,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "500",
+                    "typography_text_transform": "none"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "0b3d091e",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "<strong>Location</strong><br>2A/15-21 Collier Rd, Morley WA 6062<br>Located inside Australian Cosmetic Hub",
+                    "align": "left",
+                    "text_color": "#5E5E5E",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "172f5d99",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "<strong>Phone</strong><br><a href='tel:0426194413'>0426 194 413</a>",
+                    "align": "left",
+                    "text_color": "#5E5E5E",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "0d9b9b1c",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "<strong>Email</strong><br><a href='mailto:Contourlashbrowperth@gmail.com'>Contourlashbrowperth@gmail.com</a>",
+                    "align": "left",
+                    "text_color": "#5E5E5E",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "94c7a0de",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "<strong>Opening hours</strong><br>Appointments only",
+                    "align": "left",
+                    "text_color": "#5E5E5E",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "346a86e0",
+                  "elType": "widget",
+                  "widgetType": "html",
+                  "isInner": false,
+                  "settings": {
+                    "html": "<ul style=\"list-style:none;padding:0;margin:0;\">\n<li style=\"display:flex;justify-content:space-between;border-bottom:1px solid #DBBCB0;padding:6px 0;\"><span>Monday</span><span>9am – 7pm</span></li>\n<li style=\"display:flex;justify-content:space-between;border-bottom:1px solid #DBBCB0;padding:6px 0;\"><span>Tuesday</span><span>9am – 7pm</span></li>\n<li style=\"display:flex;justify-content:space-between;border-bottom:1px solid #DBBCB0;padding:6px 0;\"><span>Wednesday</span><span>9am – 7pm</span></li>\n<li style=\"display:flex;justify-content:space-between;border-bottom:1px solid #DBBCB0;padding:6px 0;\"><span>Thursday</span><span>9am – 7pm</span></li>\n<li style=\"display:flex;justify-content:space-between;border-bottom:1px solid #DBBCB0;padding:6px 0;\"><span>Friday</span><span>9am – 7pm</span></li>\n<li style=\"display:flex;justify-content:space-between;border-bottom:1px solid #DBBCB0;padding:6px 0;\"><span>Saturday</span><span>9am – 5pm</span></li>\n<li style=\"display:flex;justify-content:space-between;border-bottom:1px solid #DBBCB0;padding:6px 0;\"><span>Sunday</span><span>10am – 5pm</span></li>\n</ul>"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "55a284bb",
+                  "elType": "widget",
+                  "widgetType": "button",
+                  "isInner": false,
+                  "settings": {
+                    "text": "Book Now",
+                    "link": {
+                      "url": "https://app.acuityscheduling.com/schedule/dcffaf1c",
+                      "is_external": "on",
+                      "nofollow": "",
+                      "custom_attributes": ""
+                    },
+                    "align": "left",
+                    "background_color": "#DBBCB0",
+                    "button_text_color": "#362720",
+                    "border_border": "solid",
+                    "border_width": {
+                      "unit": "px",
+                      "top": "1",
+                      "right": "1",
+                      "bottom": "1",
+                      "left": "1",
+                      "isLinked": true
+                    },
+                    "border_color": "#8F6F63",
+                    "border_radius": {
+                      "unit": "px",
+                      "top": "2",
+                      "right": "2",
+                      "bottom": "2",
+                      "left": "2",
+                      "isLinked": true
+                    },
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cinzel",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 14,
+                      "sizes": []
+                    },
+                    "typography_text_transform": "uppercase",
+                    "typography_letter_spacing": {
+                      "unit": "px",
+                      "size": 1.5,
+                      "sizes": []
+                    },
+                    "button_background_hover_background": "classic",
+                    "hover_color": "#F8F2F1",
+                    "button_background_hover_color": "#3E2D25"
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "2ab1ad99",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 48,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "a760f0f7",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "isInner": false,
+                  "settings": {
+                    "title": "Send a message",
+                    "header_size": "h2",
+                    "align": "left",
+                    "title_color": "#362720",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cinzel",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 32,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "500",
+                    "typography_text_transform": "none"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "1856c414",
+                  "elType": "widget",
+                  "widgetType": "html",
+                  "isInner": false,
+                  "settings": {
+                    "html": "<form action=\"mailto:Contourlashbrowperth@gmail.com\" method=\"post\" enctype=\"text/plain\" style=\"display:flex;flex-direction:column;gap:14px;\">\n<label style=\"font-family:Cinzel,serif;font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:#3E2D25;\">Name\n<input required name=\"name\" style=\"width:100%;border:1px solid #DBBCB0;padding:12px 14px;font-size:16px;box-sizing:border-box;\"></label>\n<label style=\"font-family:Cinzel,serif;font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:#3E2D25;\">Email\n<input required type=\"email\" name=\"email\" style=\"width:100%;border:1px solid #DBBCB0;padding:12px 14px;font-size:16px;box-sizing:border-box;\"></label>\n<label style=\"font-family:Cinzel,serif;font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:#3E2D25;\">Phone\n<input name=\"phone\" style=\"width:100%;border:1px solid #DBBCB0;padding:12px 14px;font-size:16px;box-sizing:border-box;\"></label>\n<label style=\"font-family:Cinzel,serif;font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:#3E2D25;\">Message\n<textarea required name=\"message\" rows=\"5\" style=\"width:100%;border:1px solid #DBBCB0;padding:12px 14px;font-size:16px;box-sizing:border-box;\"></textarea></label>\n<button type=\"submit\" style=\"min-width:150px;padding:12px 28px;border:1px solid #8F6F63;background:#DBBCB0;color:#362720;font-family:Cinzel,serif;letter-spacing:.12em;text-transform:uppercase;cursor:pointer;\">Send message</button>\n</form>"
+                  },
+                  "elements": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a69ff9e4",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "container_type": "flex",
+        "content_width": "full",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "html_tag": "section"
+      },
+      "elements": [
+        {
+          "id": "18c1b21b",
+          "elType": "widget",
+          "widgetType": "google_maps",
+          "isInner": false,
+          "settings": {
+            "address": "2A/15-21 Collier Rd, Morley WA 6062, Australian Cosmetic Hub",
+            "zoom": {
+              "size": 16
+            },
+            "height": {
+              "unit": "px",
+              "size": 380,
+              "sizes": []
+            },
+            "prevent_scroll": "yes"
+          },
+          "elements": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,331 @@
+{
+  "title": "Contour — Privacy Policy",
+  "type": "page",
+  "version": "0.4",
+  "page_settings": [],
+  "content": [
+    {
+      "id": "e869a496",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "container_type": "flex",
+        "content_width": "boxed",
+        "boxed_width": {
+          "unit": "px",
+          "size": 1140,
+          "sizes": []
+        },
+        "flex_direction": "column",
+        "flex_align_items": "stretch",
+        "flex_gap": {
+          "column": "24",
+          "row": "24",
+          "unit": "px",
+          "isLinked": true,
+          "size": 24
+        },
+        "padding": {
+          "unit": "px",
+          "top": "72",
+          "right": "24",
+          "bottom": "72",
+          "left": "24",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "html_tag": "section"
+      },
+      "elements": [
+        {
+          "id": "cdd2fcfa",
+          "elType": "widget",
+          "widgetType": "heading",
+          "isInner": false,
+          "settings": {
+            "title": "Legal",
+            "header_size": "h6",
+            "align": "left",
+            "title_color": "#8F6F63",
+            "typography_typography": "custom",
+            "typography_font_family": "Libre Baskerville",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 16,
+              "sizes": []
+            },
+            "typography_font_weight": "500",
+            "typography_text_transform": "none"
+          },
+          "elements": []
+        },
+        {
+          "id": "f4717f1e",
+          "elType": "widget",
+          "widgetType": "heading",
+          "isInner": false,
+          "settings": {
+            "title": "Privacy Policy",
+            "header_size": "h1",
+            "align": "left",
+            "title_color": "#362720",
+            "typography_typography": "custom",
+            "typography_font_family": "Cinzel",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 32,
+              "sizes": []
+            },
+            "typography_font_weight": "500",
+            "typography_text_transform": "none"
+          },
+          "elements": []
+        },
+        {
+          "id": "b08e4730",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "isInner": false,
+          "settings": {
+            "editor": "Contour Lash and Brow (ABN 66 187 638 042) respects your privacy and handles personal information in line with the Australian Privacy Principles in the Privacy Act 1988 (Cth).",
+            "align": "left",
+            "text_color": "#5E5E5E",
+            "typography_typography": "custom",
+            "typography_font_family": "Source Sans 3",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 16,
+              "sizes": []
+            }
+          },
+          "elements": []
+        },
+        {
+          "id": "10288a95",
+          "elType": "widget",
+          "widgetType": "heading",
+          "isInner": false,
+          "settings": {
+            "title": "What we collect",
+            "header_size": "h2",
+            "align": "left",
+            "title_color": "#362720",
+            "typography_typography": "custom",
+            "typography_font_family": "Cinzel",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 24,
+              "sizes": []
+            },
+            "typography_font_weight": "500",
+            "typography_text_transform": "none"
+          },
+          "elements": []
+        },
+        {
+          "id": "ecc89a71",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "isInner": false,
+          "settings": {
+            "editor": "We may collect your name, phone number, email address, appointment details, patch-test records, and any notes you share about sensitivities, eye health, or preferred lash styles. If you book online through Acuity Scheduling, that platform also collects the details needed to create your booking.",
+            "align": "left",
+            "text_color": "#5E5E5E",
+            "typography_typography": "custom",
+            "typography_font_family": "Source Sans 3",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 16,
+              "sizes": []
+            }
+          },
+          "elements": []
+        },
+        {
+          "id": "61d385e2",
+          "elType": "widget",
+          "widgetType": "heading",
+          "isInner": false,
+          "settings": {
+            "title": "How we use it",
+            "header_size": "h2",
+            "align": "left",
+            "title_color": "#362720",
+            "typography_typography": "custom",
+            "typography_font_family": "Cinzel",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 24,
+              "sizes": []
+            },
+            "typography_font_weight": "500",
+            "typography_text_transform": "none"
+          },
+          "elements": []
+        },
+        {
+          "id": "0d11feb1",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "isInner": false,
+          "settings": {
+            "editor": "We use your information to book and confirm appointments, provide treatments, send appointment reminders, process payments, and respond to enquiries. We do not sell your personal information.",
+            "align": "left",
+            "text_color": "#5E5E5E",
+            "typography_typography": "custom",
+            "typography_font_family": "Source Sans 3",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 16,
+              "sizes": []
+            }
+          },
+          "elements": []
+        },
+        {
+          "id": "4e4eea62",
+          "elType": "widget",
+          "widgetType": "heading",
+          "isInner": false,
+          "settings": {
+            "title": "Who we share it with",
+            "header_size": "h2",
+            "align": "left",
+            "title_color": "#362720",
+            "typography_typography": "custom",
+            "typography_font_family": "Cinzel",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 24,
+              "sizes": []
+            },
+            "typography_font_weight": "500",
+            "typography_text_transform": "none"
+          },
+          "elements": []
+        },
+        {
+          "id": "57a15d89",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "isInner": false,
+          "settings": {
+            "editor": "We may share information with our online booking provider, payment processors, and professional advisers when required. We may also disclose information if the law requires us to do so.",
+            "align": "left",
+            "text_color": "#5E5E5E",
+            "typography_typography": "custom",
+            "typography_font_family": "Source Sans 3",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 16,
+              "sizes": []
+            }
+          },
+          "elements": []
+        },
+        {
+          "id": "f8abb9c6",
+          "elType": "widget",
+          "widgetType": "heading",
+          "isInner": false,
+          "settings": {
+            "title": "Storage and security",
+            "header_size": "h2",
+            "align": "left",
+            "title_color": "#362720",
+            "typography_typography": "custom",
+            "typography_font_family": "Cinzel",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 24,
+              "sizes": []
+            },
+            "typography_font_weight": "500",
+            "typography_text_transform": "none"
+          },
+          "elements": []
+        },
+        {
+          "id": "36b79143",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "isInner": false,
+          "settings": {
+            "editor": "Information is stored in our booking system and salon records. We take reasonable steps to protect it from misuse, interference, loss, and unauthorised access.",
+            "align": "left",
+            "text_color": "#5E5E5E",
+            "typography_typography": "custom",
+            "typography_font_family": "Source Sans 3",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 16,
+              "sizes": []
+            }
+          },
+          "elements": []
+        },
+        {
+          "id": "68d566d3",
+          "elType": "widget",
+          "widgetType": "heading",
+          "isInner": false,
+          "settings": {
+            "title": "Access and questions",
+            "header_size": "h2",
+            "align": "left",
+            "title_color": "#362720",
+            "typography_typography": "custom",
+            "typography_font_family": "Cinzel",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 24,
+              "sizes": []
+            },
+            "typography_font_weight": "500",
+            "typography_text_transform": "none"
+          },
+          "elements": []
+        },
+        {
+          "id": "202d17ed",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "isInner": false,
+          "settings": {
+            "editor": "You can ask to access or correct your personal information, or raise a privacy concern, by emailing <a href='mailto:Contourlashbrowperth@gmail.com'>Contourlashbrowperth@gmail.com</a> or calling <a href='tel:0426194413'>0426 194 413</a>.",
+            "align": "left",
+            "text_color": "#5E5E5E",
+            "typography_typography": "custom",
+            "typography_font_family": "Source Sans 3",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 16,
+              "sizes": []
+            }
+          },
+          "elements": []
+        },
+        {
+          "id": "1864ae40",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "isInner": false,
+          "settings": {
+            "editor": "This policy may be updated from time to time. The latest version will always be available on this page.",
+            "align": "left",
+            "text_color": "#5E5E5E",
+            "typography_typography": "custom",
+            "typography_font_family": "Source Sans 3",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 16,
+              "sizes": []
+            }
+          },
+          "elements": []
+        }
+      ]
+    }
+  ]
+}

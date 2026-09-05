@@ -1,0 +1,239 @@
+{
+  "title": "Contour — Header",
+  "type": "page",
+  "version": "0.4",
+  "page_settings": {
+    "content_wrapper_html_tag": "header",
+    "background_background": "classic",
+    "background_color": "#FFFFFF"
+  },
+  "content": [
+    {
+      "id": "1f0658fc",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "container_type": "flex",
+        "content_width": "boxed",
+        "boxed_width": {
+          "unit": "px",
+          "size": 1140,
+          "sizes": []
+        },
+        "flex_direction": "row",
+        "flex_direction_mobile": "column",
+        "flex_wrap": "nowrap",
+        "flex_wrap_mobile": "wrap",
+        "flex_align_items": "center",
+        "flex_justify_content": "space-between",
+        "flex_gap": {
+          "column": "16",
+          "row": "16",
+          "unit": "px",
+          "isLinked": true,
+          "size": 16
+        },
+        "padding": {
+          "unit": "px",
+          "top": "8",
+          "right": "24",
+          "bottom": "8",
+          "left": "24",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "border_border": "solid",
+        "border_width": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "1",
+          "left": "0",
+          "isLinked": false
+        },
+        "border_color": "#DBBCB0",
+        "html_tag": "header"
+      },
+      "elements": [
+        {
+          "id": "38c874ab",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "container_type": "flex",
+            "content_width": "full",
+            "flex_direction": "column",
+            "flex_gap": {
+              "column": "12",
+              "row": "12",
+              "unit": "px",
+              "isLinked": true,
+              "size": 12
+            },
+            "flex_size": "custom",
+            "flex_grow": 0,
+            "width_mobile": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            },
+            "flex_size_mobile": "custom",
+            "width": {
+              "unit": "%",
+              "size": 22,
+              "sizes": []
+            }
+          },
+          "elements": [
+            {
+              "id": "7c76af02",
+              "elType": "widget",
+              "widgetType": "image",
+              "isInner": false,
+              "settings": {
+                "image": {
+                  "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/logo.png",
+                  "id": "",
+                  "alt": "Contour Lash and Brow",
+                  "source": "url"
+                },
+                "image_size": "full",
+                "align": "center",
+                "caption_source": "none"
+              },
+              "elements": []
+            }
+          ]
+        },
+        {
+          "id": "89fe6860",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "container_type": "flex",
+            "content_width": "full",
+            "flex_direction": "column",
+            "flex_gap": {
+              "column": "12",
+              "row": "12",
+              "unit": "px",
+              "isLinked": true,
+              "size": 12
+            },
+            "flex_size": "custom",
+            "flex_grow": 0,
+            "width_mobile": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            },
+            "flex_size_mobile": "custom",
+            "width": {
+              "unit": "%",
+              "size": 48,
+              "sizes": []
+            }
+          },
+          "elements": [
+            {
+              "id": "ec952fd9",
+              "elType": "widget",
+              "widgetType": "html",
+              "isInner": false,
+              "settings": {
+                "html": "<nav class=\"contour-nav\" style=\"display:flex;gap:28px;justify-content:center;flex-wrap:wrap;\">\n  <a href=\"/\" style=\"font-family:Cinzel,serif;font-size:13px;letter-spacing:.16em;text-transform:uppercase;color:#3E2D25;text-decoration:none;\">Home</a>\n  <a href=\"/services/\" style=\"font-family:Cinzel,serif;font-size:13px;letter-spacing:.16em;text-transform:uppercase;color:#3E2D25;text-decoration:none;\">Services</a>\n  <a href=\"/contact/\" style=\"font-family:Cinzel,serif;font-size:13px;letter-spacing:.16em;text-transform:uppercase;color:#3E2D25;text-decoration:none;\">Contact</a>\n</nav>"
+              },
+              "elements": []
+            }
+          ]
+        },
+        {
+          "id": "a1bfb528",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "container_type": "flex",
+            "content_width": "full",
+            "flex_direction": "column",
+            "flex_gap": {
+              "column": "12",
+              "row": "12",
+              "unit": "px",
+              "isLinked": true,
+              "size": 12
+            },
+            "flex_size": "custom",
+            "flex_grow": 0,
+            "width_mobile": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            },
+            "flex_size_mobile": "custom",
+            "width": {
+              "unit": "%",
+              "size": 22,
+              "sizes": []
+            }
+          },
+          "elements": [
+            {
+              "id": "439e4493",
+              "elType": "widget",
+              "widgetType": "button",
+              "isInner": false,
+              "settings": {
+                "text": "Book Now",
+                "link": {
+                  "url": "https://app.acuityscheduling.com/schedule/dcffaf1c",
+                  "is_external": "on",
+                  "nofollow": "",
+                  "custom_attributes": ""
+                },
+                "align": "right",
+                "background_color": "#DBBCB0",
+                "button_text_color": "#362720",
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1",
+                  "isLinked": true
+                },
+                "border_color": "#8F6F63",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "2",
+                  "right": "2",
+                  "bottom": "2",
+                  "left": "2",
+                  "isLinked": true
+                },
+                "typography_typography": "custom",
+                "typography_font_family": "Cinzel",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 14,
+                  "sizes": []
+                },
+                "typography_text_transform": "uppercase",
+                "typography_letter_spacing": {
+                  "unit": "px",
+                  "size": 1.5,
+                  "sizes": []
+                },
+                "button_background_hover_background": "classic",
+                "hover_color": "#F8F2F1",
+                "button_background_hover_color": "#3E2D25"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

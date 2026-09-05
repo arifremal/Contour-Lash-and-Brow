@@ -1,0 +1,3037 @@
+{
+  "title": "Contour — Home",
+  "type": "page",
+  "version": "0.4",
+  "page_settings": [],
+  "content": [
+    {
+      "id": "4ddaa91c",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "container_type": "flex",
+        "content_width": "boxed",
+        "boxed_width": {
+          "unit": "px",
+          "size": 1140,
+          "sizes": []
+        },
+        "flex_direction": "column",
+        "flex_gap": {
+          "column": "16",
+          "row": "16",
+          "unit": "px",
+          "isLinked": true,
+          "size": 16
+        },
+        "min_height": "min-height",
+        "custom_height": {
+          "unit": "vh",
+          "size": 78,
+          "sizes": []
+        },
+        "flex_justify_content": "center",
+        "padding": {
+          "unit": "px",
+          "top": "80",
+          "right": "24",
+          "bottom": "80",
+          "left": "24",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_image": {
+          "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/volume-7d.jpg",
+          "id": "",
+          "alt": "Contour lash extensions",
+          "source": "url",
+          "size": ""
+        },
+        "background_position": "center center",
+        "background_repeat": "no-repeat",
+        "background_size": "cover",
+        "background_overlay_background": "classic",
+        "background_overlay_color": "#362720",
+        "background_overlay_opacity": {
+          "unit": "px",
+          "size": 0.5,
+          "sizes": []
+        },
+        "html_tag": "section"
+      },
+      "elements": [
+        {
+          "id": "43f365f3",
+          "elType": "widget",
+          "widgetType": "heading",
+          "isInner": false,
+          "settings": {
+            "title": "Contour Lash and Brow",
+            "header_size": "h6",
+            "align": "left",
+            "title_color": "#DBBCB0",
+            "typography_typography": "custom",
+            "typography_font_family": "Libre Baskerville",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 16,
+              "sizes": []
+            },
+            "typography_font_weight": "500",
+            "typography_text_transform": "none"
+          },
+          "elements": []
+        },
+        {
+          "id": "ba46d8b4",
+          "elType": "widget",
+          "widgetType": "heading",
+          "isInner": false,
+          "settings": {
+            "title": "Enhance Your Natural Beauty",
+            "header_size": "h1",
+            "align": "left",
+            "title_color": "#F8F2F1",
+            "typography_typography": "custom",
+            "typography_font_family": "Cinzel",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 46,
+              "sizes": []
+            },
+            "typography_font_weight": "500",
+            "typography_text_transform": "none"
+          },
+          "elements": []
+        },
+        {
+          "id": "d5c72fe4",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "isInner": false,
+          "settings": {
+            "editor": "Lash extensions, lash lifts and brow treatments in Morley — located inside Australian Cosmetic Hub.",
+            "align": "left",
+            "text_color": "#F8F2F1",
+            "typography_typography": "custom",
+            "typography_font_family": "Source Sans 3",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 18,
+              "sizes": []
+            }
+          },
+          "elements": []
+        },
+        {
+          "id": "2b6b1928",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "container_type": "flex",
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_direction_mobile": "column",
+            "flex_wrap": "nowrap",
+            "flex_wrap_mobile": "wrap",
+            "flex_gap": {
+              "column": "24",
+              "row": "24",
+              "unit": "px",
+              "isLinked": true,
+              "size": 24
+            },
+            "flex_align_items": "center",
+            "flex_justify_content": "flex-start",
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            }
+          },
+          "elements": [
+            {
+              "id": "50e5147b",
+              "elType": "widget",
+              "widgetType": "button",
+              "isInner": false,
+              "settings": {
+                "text": "Book Now",
+                "link": {
+                  "url": "https://app.acuityscheduling.com/schedule/dcffaf1c",
+                  "is_external": "on",
+                  "nofollow": "",
+                  "custom_attributes": ""
+                },
+                "align": "left",
+                "background_color": "#DBBCB0",
+                "button_text_color": "#362720",
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1",
+                  "isLinked": true
+                },
+                "border_color": "#8F6F63",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "2",
+                  "right": "2",
+                  "bottom": "2",
+                  "left": "2",
+                  "isLinked": true
+                },
+                "typography_typography": "custom",
+                "typography_font_family": "Cinzel",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 14,
+                  "sizes": []
+                },
+                "typography_text_transform": "uppercase",
+                "typography_letter_spacing": {
+                  "unit": "px",
+                  "size": 1.5,
+                  "sizes": []
+                },
+                "button_background_hover_background": "classic",
+                "hover_color": "#F8F2F1",
+                "button_background_hover_color": "#3E2D25"
+              },
+              "elements": []
+            },
+            {
+              "id": "213e7c2c",
+              "elType": "widget",
+              "widgetType": "button",
+              "isInner": false,
+              "settings": {
+                "text": "View services",
+                "link": {
+                  "url": "/services/",
+                  "is_external": "",
+                  "nofollow": "",
+                  "custom_attributes": ""
+                },
+                "align": "left",
+                "background_color": "rgba(0,0,0,0)",
+                "button_text_color": "#F8F2F1",
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "1",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "border_color": "#DBBCB0",
+                "typography_typography": "custom",
+                "typography_font_family": "Cinzel",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 13,
+                  "sizes": []
+                },
+                "typography_text_transform": "uppercase"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2c4a03e3",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "container_type": "flex",
+        "content_width": "boxed",
+        "boxed_width": {
+          "unit": "px",
+          "size": 1140,
+          "sizes": []
+        },
+        "flex_direction": "column",
+        "flex_align_items": "stretch",
+        "flex_gap": {
+          "column": "24",
+          "row": "24",
+          "unit": "px",
+          "isLinked": true,
+          "size": 24
+        },
+        "padding": {
+          "unit": "px",
+          "top": "72",
+          "right": "24",
+          "bottom": "72",
+          "left": "24",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "html_tag": "section"
+      },
+      "elements": [
+        {
+          "id": "a81f82d7",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "container_type": "flex",
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_direction_mobile": "column",
+            "flex_wrap": "nowrap",
+            "flex_wrap_mobile": "wrap",
+            "flex_gap": {
+              "column": "24",
+              "row": "24",
+              "unit": "px",
+              "isLinked": true,
+              "size": 24
+            },
+            "flex_align_items": "stretch",
+            "flex_justify_content": "flex-start",
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            }
+          },
+          "elements": [
+            {
+              "id": "4166be60",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 50,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "e3b01935",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "isInner": false,
+                  "settings": {
+                    "title": "Welcome",
+                    "header_size": "h6",
+                    "align": "left",
+                    "title_color": "#8F6F63",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Libre Baskerville",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "500",
+                    "typography_text_transform": "none"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "9fca41fa",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "isInner": false,
+                  "settings": {
+                    "title": "Welcome to Contour Lash and Brow",
+                    "header_size": "h2",
+                    "align": "left",
+                    "title_color": "#362720",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cinzel",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 32,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "500",
+                    "typography_text_transform": "none"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "5002ff15",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "Welcome to Contour Lash and Brow, where we enhance your natural beauty. Our technicians use high-quality products and careful application to create lashes and brows that feel lightweight, look polished, and last.",
+                    "align": "left",
+                    "text_color": "#5E5E5E",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "a69ba1b2",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "Whether you want a soft natural classic set or a full glam transformation, we will help you choose the style that suits your eye shape and everyday routine. Appointments are available seven days a week.",
+                    "align": "left",
+                    "text_color": "#5E5E5E",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "6c621025",
+                  "elType": "widget",
+                  "widgetType": "button",
+                  "isInner": false,
+                  "settings": {
+                    "text": "Book Now",
+                    "link": {
+                      "url": "https://app.acuityscheduling.com/schedule/dcffaf1c",
+                      "is_external": "on",
+                      "nofollow": "",
+                      "custom_attributes": ""
+                    },
+                    "align": "left",
+                    "background_color": "#DBBCB0",
+                    "button_text_color": "#362720",
+                    "border_border": "solid",
+                    "border_width": {
+                      "unit": "px",
+                      "top": "1",
+                      "right": "1",
+                      "bottom": "1",
+                      "left": "1",
+                      "isLinked": true
+                    },
+                    "border_color": "#8F6F63",
+                    "border_radius": {
+                      "unit": "px",
+                      "top": "2",
+                      "right": "2",
+                      "bottom": "2",
+                      "left": "2",
+                      "isLinked": true
+                    },
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cinzel",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 14,
+                      "sizes": []
+                    },
+                    "typography_text_transform": "uppercase",
+                    "typography_letter_spacing": {
+                      "unit": "px",
+                      "size": 1.5,
+                      "sizes": []
+                    },
+                    "button_background_hover_background": "classic",
+                    "hover_color": "#F8F2F1",
+                    "button_background_hover_color": "#3E2D25"
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "8de4ba3a",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 50,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "b4a92a3f",
+                  "elType": "widget",
+                  "widgetType": "image",
+                  "isInner": false,
+                  "settings": {
+                    "image": {
+                      "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/fb-01.jpg",
+                      "id": "",
+                      "alt": "Contour Lash and Brow services flyer",
+                      "source": "url"
+                    },
+                    "image_size": "full",
+                    "align": "center",
+                    "caption_source": "none"
+                  },
+                  "elements": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "175f44bd",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "container_type": "flex",
+        "content_width": "boxed",
+        "boxed_width": {
+          "unit": "px",
+          "size": 1140,
+          "sizes": []
+        },
+        "flex_direction": "column",
+        "flex_align_items": "stretch",
+        "flex_gap": {
+          "column": "24",
+          "row": "24",
+          "unit": "px",
+          "isLinked": true,
+          "size": 24
+        },
+        "padding": {
+          "unit": "px",
+          "top": "72",
+          "right": "24",
+          "bottom": "72",
+          "left": "24",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#F8F2F1",
+        "html_tag": "section"
+      },
+      "elements": [
+        {
+          "id": "b927b6f7",
+          "elType": "widget",
+          "widgetType": "heading",
+          "isInner": false,
+          "settings": {
+            "title": "Services",
+            "header_size": "h6",
+            "align": "center",
+            "title_color": "#8F6F63",
+            "typography_typography": "custom",
+            "typography_font_family": "Libre Baskerville",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 16,
+              "sizes": []
+            },
+            "typography_font_weight": "500",
+            "typography_text_transform": "none"
+          },
+          "elements": []
+        },
+        {
+          "id": "977d39de",
+          "elType": "widget",
+          "widgetType": "heading",
+          "isInner": false,
+          "settings": {
+            "title": "Look and feel your best",
+            "header_size": "h2",
+            "align": "center",
+            "title_color": "#362720",
+            "typography_typography": "custom",
+            "typography_font_family": "Cinzel",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 32,
+              "sizes": []
+            },
+            "typography_font_weight": "500",
+            "typography_text_transform": "none"
+          },
+          "elements": []
+        },
+        {
+          "id": "8705cdf7",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "isInner": false,
+          "settings": {
+            "editor": "We offer classic, hybrid and volume eyelash extensions, plus lash lifts, brow wax, tint, styling and lamination.",
+            "align": "center",
+            "text_color": "#5E5E5E",
+            "typography_typography": "custom",
+            "typography_font_family": "Source Sans 3",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 16,
+              "sizes": []
+            }
+          },
+          "elements": []
+        },
+        {
+          "id": "1bf7f119",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "container_type": "flex",
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_direction_mobile": "column",
+            "flex_wrap": "wrap",
+            "flex_wrap_mobile": "wrap",
+            "flex_gap": {
+              "column": "24",
+              "row": "24",
+              "unit": "px",
+              "isLinked": true,
+              "size": 24
+            },
+            "flex_align_items": "stretch",
+            "flex_justify_content": "flex-start",
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            }
+          },
+          "elements": [
+            {
+              "id": "622b2015",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 31,
+                  "sizes": []
+                },
+                "background_background": "classic",
+                "background_color": "#FFFFFF",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "20",
+                  "left": "0",
+                  "isLinked": false
+                }
+              },
+              "elements": [
+                {
+                  "id": "298b607f",
+                  "elType": "widget",
+                  "widgetType": "image",
+                  "isInner": false,
+                  "settings": {
+                    "image": {
+                      "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/collage-classic.jpg",
+                      "id": "",
+                      "alt": "Classic Lashes",
+                      "source": "url"
+                    },
+                    "image_size": "full",
+                    "align": "center",
+                    "caption_source": "none"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "da2aab9f",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "isInner": false,
+                  "settings": {
+                    "title": "Classic Lashes",
+                    "header_size": "h3",
+                    "align": "left",
+                    "title_color": "#362720",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cinzel",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "500",
+                    "typography_text_transform": "none"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "fc9f4a54",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "Natural Classic and Glamour Classic — one extension on each natural lash, from a soft everyday finish to extra length and definition.",
+                    "align": "left",
+                    "text_color": "#5E5E5E",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 15,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "579a730c",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 31,
+                  "sizes": []
+                },
+                "background_background": "classic",
+                "background_color": "#FFFFFF",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "20",
+                  "left": "0",
+                  "isLinked": false
+                }
+              },
+              "elements": [
+                {
+                  "id": "bb4e4bf3",
+                  "elType": "widget",
+                  "widgetType": "image",
+                  "isInner": false,
+                  "settings": {
+                    "image": {
+                      "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/collage-hybrid.jpg",
+                      "id": "",
+                      "alt": "Hybrid Lashes",
+                      "source": "url"
+                    },
+                    "image_size": "full",
+                    "align": "center",
+                    "caption_source": "none"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "bd87f38e",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "isInner": false,
+                  "settings": {
+                    "title": "Hybrid Lashes",
+                    "header_size": "h3",
+                    "align": "left",
+                    "title_color": "#362720",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cinzel",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "500",
+                    "typography_text_transform": "none"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "f0ef0e97",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "Natural Hybrid, Deluxe Hybrid, Wispy Wet Look and Textured Kim K — classic mixed with volume fans for texture and fullness.",
+                    "align": "left",
+                    "text_color": "#5E5E5E",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 15,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "0fc4709b",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 31,
+                  "sizes": []
+                },
+                "background_background": "classic",
+                "background_color": "#FFFFFF",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "20",
+                  "left": "0",
+                  "isLinked": false
+                }
+              },
+              "elements": [
+                {
+                  "id": "63dfbf7f",
+                  "elType": "widget",
+                  "widgetType": "image",
+                  "isInner": false,
+                  "settings": {
+                    "image": {
+                      "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/collage-volume.jpg",
+                      "id": "",
+                      "alt": "Volume Lashes",
+                      "source": "url"
+                    },
+                    "image_size": "full",
+                    "align": "center",
+                    "caption_source": "none"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "4362aea5",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "isInner": false,
+                  "settings": {
+                    "title": "Volume Lashes",
+                    "header_size": "h3",
+                    "align": "left",
+                    "title_color": "#362720",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cinzel",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "500",
+                    "typography_text_transform": "none"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "7635813d",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "Natural Volume 3D, Deluxe Volume 5D, Dramatic Volume 7D and Mega Volume 10D — lightweight fans from a soft everyday look to full glam.",
+                    "align": "left",
+                    "text_color": "#5E5E5E",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 15,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "a2c9da14",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 31,
+                  "sizes": []
+                },
+                "background_background": "classic",
+                "background_color": "#FFFFFF",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "20",
+                  "left": "0",
+                  "isLinked": false
+                }
+              },
+              "elements": [
+                {
+                  "id": "33c72074",
+                  "elType": "widget",
+                  "widgetType": "image",
+                  "isInner": false,
+                  "settings": {
+                    "image": {
+                      "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/collage-lift.jpg",
+                      "id": "",
+                      "alt": "Lash Lift",
+                      "source": "url"
+                    },
+                    "image_size": "full",
+                    "align": "center",
+                    "caption_source": "none"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "9fddfee3",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "isInner": false,
+                  "settings": {
+                    "title": "Lash Lift",
+                    "header_size": "h3",
+                    "align": "left",
+                    "title_color": "#362720",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cinzel",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "500",
+                    "typography_text_transform": "none"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "2991156c",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "Lash lift, and lash lift & tint with keratin — curl and define your natural lashes without extensions.",
+                    "align": "left",
+                    "text_color": "#5E5E5E",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 15,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "293219b0",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 31,
+                  "sizes": []
+                },
+                "background_background": "classic",
+                "background_color": "#FFFFFF",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "20",
+                  "left": "0",
+                  "isLinked": false
+                }
+              },
+              "elements": [
+                {
+                  "id": "cb3e6906",
+                  "elType": "widget",
+                  "widgetType": "image",
+                  "isInner": false,
+                  "settings": {
+                    "image": {
+                      "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/collage-brow.jpg",
+                      "id": "",
+                      "alt": "Brow Sculpting",
+                      "source": "url"
+                    },
+                    "image_size": "full",
+                    "align": "center",
+                    "caption_source": "none"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "6d01007e",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "isInner": false,
+                  "settings": {
+                    "title": "Brow Sculpting",
+                    "header_size": "h3",
+                    "align": "left",
+                    "title_color": "#362720",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cinzel",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "500",
+                    "typography_text_transform": "none"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "2944220d",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "Brow wax, tint, styling and lamination to shape, fill and polish your natural brows.",
+                    "align": "left",
+                    "text_color": "#5E5E5E",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 15,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2b48ff07",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "container_type": "flex",
+            "content_width": "full",
+            "flex_justify_content": "center"
+          },
+          "elements": [
+            {
+              "id": "f1a3ad71",
+              "elType": "widget",
+              "widgetType": "button",
+              "isInner": false,
+              "settings": {
+                "text": "See full price list",
+                "link": {
+                  "url": "/services/",
+                  "is_external": "",
+                  "nofollow": "",
+                  "custom_attributes": ""
+                },
+                "align": "center",
+                "background_color": "#DBBCB0",
+                "button_text_color": "#362720",
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1",
+                  "isLinked": true
+                },
+                "border_color": "#8F6F63",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "2",
+                  "right": "2",
+                  "bottom": "2",
+                  "left": "2",
+                  "isLinked": true
+                },
+                "typography_typography": "custom",
+                "typography_font_family": "Cinzel",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 14,
+                  "sizes": []
+                },
+                "typography_text_transform": "uppercase",
+                "typography_letter_spacing": {
+                  "unit": "px",
+                  "size": 1.5,
+                  "sizes": []
+                },
+                "button_background_hover_background": "classic",
+                "hover_color": "#F8F2F1",
+                "button_background_hover_color": "#3E2D25"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bccab258",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "container_type": "flex",
+        "content_width": "boxed",
+        "boxed_width": {
+          "unit": "px",
+          "size": 1140,
+          "sizes": []
+        },
+        "flex_direction": "column",
+        "flex_align_items": "stretch",
+        "flex_gap": {
+          "column": "24",
+          "row": "24",
+          "unit": "px",
+          "isLinked": true,
+          "size": 24
+        },
+        "padding": {
+          "unit": "px",
+          "top": "72",
+          "right": "24",
+          "bottom": "72",
+          "left": "24",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "html_tag": "section"
+      },
+      "elements": [
+        {
+          "id": "0954bce8",
+          "elType": "widget",
+          "widgetType": "heading",
+          "isInner": false,
+          "settings": {
+            "title": "Our work",
+            "header_size": "h6",
+            "align": "center",
+            "title_color": "#8F6F63",
+            "typography_typography": "custom",
+            "typography_font_family": "Libre Baskerville",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 16,
+              "sizes": []
+            },
+            "typography_font_weight": "500",
+            "typography_text_transform": "none"
+          },
+          "elements": []
+        },
+        {
+          "id": "8d680a2f",
+          "elType": "widget",
+          "widgetType": "heading",
+          "isInner": false,
+          "settings": {
+            "title": "From the salon",
+            "header_size": "h2",
+            "align": "center",
+            "title_color": "#362720",
+            "typography_typography": "custom",
+            "typography_font_family": "Cinzel",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 32,
+              "sizes": []
+            },
+            "typography_font_weight": "500",
+            "typography_text_transform": "none"
+          },
+          "elements": []
+        },
+        {
+          "id": "f2035d14",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "container_type": "flex",
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_direction_mobile": "column",
+            "flex_wrap": "wrap",
+            "flex_wrap_mobile": "wrap",
+            "flex_gap": {
+              "column": "24",
+              "row": "24",
+              "unit": "px",
+              "isLinked": true,
+              "size": 24
+            },
+            "flex_align_items": "stretch",
+            "flex_justify_content": "flex-start",
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            }
+          },
+          "elements": [
+            {
+              "id": "84842ceb",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 31,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "b5ec0bd5",
+                  "elType": "widget",
+                  "widgetType": "image",
+                  "isInner": false,
+                  "settings": {
+                    "image": {
+                      "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/classic-natural.jpg",
+                      "id": "",
+                      "alt": "Natural classic lash extensions",
+                      "source": "url"
+                    },
+                    "image_size": "full",
+                    "align": "center",
+                    "caption_source": "none"
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "824f4903",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 31,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "b33fc15b",
+                  "elType": "widget",
+                  "widgetType": "image",
+                  "isInner": false,
+                  "settings": {
+                    "image": {
+                      "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/classic-glamour.jpg",
+                      "id": "",
+                      "alt": "Glamour classic lash extensions",
+                      "source": "url"
+                    },
+                    "image_size": "full",
+                    "align": "center",
+                    "caption_source": "none"
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "c908f82b",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 31,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "b8347b5c",
+                  "elType": "widget",
+                  "widgetType": "image",
+                  "isInner": false,
+                  "settings": {
+                    "image": {
+                      "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/hybrid-natural.jpg",
+                      "id": "",
+                      "alt": "Natural hybrid lash extensions",
+                      "source": "url"
+                    },
+                    "image_size": "full",
+                    "align": "center",
+                    "caption_source": "none"
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "60862a59",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 31,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "ca23f0c7",
+                  "elType": "widget",
+                  "widgetType": "image",
+                  "isInner": false,
+                  "settings": {
+                    "image": {
+                      "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/hybrid-deluxe.jpg",
+                      "id": "",
+                      "alt": "Deluxe hybrid lash extensions",
+                      "source": "url"
+                    },
+                    "image_size": "full",
+                    "align": "center",
+                    "caption_source": "none"
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "e52c2724",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 31,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "5d18adbb",
+                  "elType": "widget",
+                  "widgetType": "image",
+                  "isInner": false,
+                  "settings": {
+                    "image": {
+                      "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/hybrid-wet.jpg",
+                      "id": "",
+                      "alt": "Wispy wet look lash extensions",
+                      "source": "url"
+                    },
+                    "image_size": "full",
+                    "align": "center",
+                    "caption_source": "none"
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "cda1e14b",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 31,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "e5d4aa3a",
+                  "elType": "widget",
+                  "widgetType": "image",
+                  "isInner": false,
+                  "settings": {
+                    "image": {
+                      "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/hybrid-kimk.jpg",
+                      "id": "",
+                      "alt": "Textured Kim K lash extensions",
+                      "source": "url"
+                    },
+                    "image_size": "full",
+                    "align": "center",
+                    "caption_source": "none"
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "0d62e9a8",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 31,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "e2e424e2",
+                  "elType": "widget",
+                  "widgetType": "image",
+                  "isInner": false,
+                  "settings": {
+                    "image": {
+                      "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/volume-3d.jpg",
+                      "id": "",
+                      "alt": "Natural volume 3D lash extensions",
+                      "source": "url"
+                    },
+                    "image_size": "full",
+                    "align": "center",
+                    "caption_source": "none"
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "5e2b9b00",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 31,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "da64340e",
+                  "elType": "widget",
+                  "widgetType": "image",
+                  "isInner": false,
+                  "settings": {
+                    "image": {
+                      "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/volume-5d.jpg",
+                      "id": "",
+                      "alt": "Deluxe volume 5D lash extensions",
+                      "source": "url"
+                    },
+                    "image_size": "full",
+                    "align": "center",
+                    "caption_source": "none"
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "6b257739",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 31,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "cca80403",
+                  "elType": "widget",
+                  "widgetType": "image",
+                  "isInner": false,
+                  "settings": {
+                    "image": {
+                      "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/volume-7d.jpg",
+                      "id": "",
+                      "alt": "Dramatic volume 7D lash extensions",
+                      "source": "url"
+                    },
+                    "image_size": "full",
+                    "align": "center",
+                    "caption_source": "none"
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "6576f0cf",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 31,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "ff88a4e5",
+                  "elType": "widget",
+                  "widgetType": "image",
+                  "isInner": false,
+                  "settings": {
+                    "image": {
+                      "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/volume-10d.jpg",
+                      "id": "",
+                      "alt": "Mega volume 10D lash extensions",
+                      "source": "url"
+                    },
+                    "image_size": "full",
+                    "align": "center",
+                    "caption_source": "none"
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "0d533e65",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 31,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "054bffe9",
+                  "elType": "widget",
+                  "widgetType": "image",
+                  "isInner": false,
+                  "settings": {
+                    "image": {
+                      "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/lift-01.jpg",
+                      "id": "",
+                      "alt": "Lash lift result",
+                      "source": "url"
+                    },
+                    "image_size": "full",
+                    "align": "center",
+                    "caption_source": "none"
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "768ff09d",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 31,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "aaec650f",
+                  "elType": "widget",
+                  "widgetType": "image",
+                  "isInner": false,
+                  "settings": {
+                    "image": {
+                      "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/lift-02.jpg",
+                      "id": "",
+                      "alt": "Lash lift and tint result",
+                      "source": "url"
+                    },
+                    "image_size": "full",
+                    "align": "center",
+                    "caption_source": "none"
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "1b662808",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 31,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "6e344ef8",
+                  "elType": "widget",
+                  "widgetType": "image",
+                  "isInner": false,
+                  "settings": {
+                    "image": {
+                      "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/brow-styling.jpg",
+                      "id": "",
+                      "alt": "Brow styling result",
+                      "source": "url"
+                    },
+                    "image_size": "full",
+                    "align": "center",
+                    "caption_source": "none"
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "ec957e57",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 31,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "405b3600",
+                  "elType": "widget",
+                  "widgetType": "image",
+                  "isInner": false,
+                  "settings": {
+                    "image": {
+                      "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/brow-lamination.jpg",
+                      "id": "",
+                      "alt": "Brow lamination result",
+                      "source": "url"
+                    },
+                    "image_size": "full",
+                    "align": "center",
+                    "caption_source": "none"
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "6e850bcf",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 31,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "56293993",
+                  "elType": "widget",
+                  "widgetType": "image",
+                  "isInner": false,
+                  "settings": {
+                    "image": {
+                      "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/brow-wax.jpg",
+                      "id": "",
+                      "alt": "Brow wax result",
+                      "source": "url"
+                    },
+                    "image_size": "full",
+                    "align": "center",
+                    "caption_source": "none"
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "8700be7b",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 31,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "a5f46f5c",
+                  "elType": "widget",
+                  "widgetType": "image",
+                  "isInner": false,
+                  "settings": {
+                    "image": {
+                      "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/brow-tint.jpg",
+                      "id": "",
+                      "alt": "Brow tint result",
+                      "source": "url"
+                    },
+                    "image_size": "full",
+                    "align": "center",
+                    "caption_source": "none"
+                  },
+                  "elements": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1c0b4d2d",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "container_type": "flex",
+        "content_width": "boxed",
+        "boxed_width": {
+          "unit": "px",
+          "size": 1140,
+          "sizes": []
+        },
+        "flex_direction": "column",
+        "flex_align_items": "stretch",
+        "flex_gap": {
+          "column": "24",
+          "row": "24",
+          "unit": "px",
+          "isLinked": true,
+          "size": 24
+        },
+        "padding": {
+          "unit": "px",
+          "top": "72",
+          "right": "24",
+          "bottom": "72",
+          "left": "24",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#F8F2F1",
+        "html_tag": "section"
+      },
+      "elements": [
+        {
+          "id": "10d5534c",
+          "elType": "widget",
+          "widgetType": "heading",
+          "isInner": false,
+          "settings": {
+            "title": "Reviews",
+            "header_size": "h6",
+            "align": "center",
+            "title_color": "#8F6F63",
+            "typography_typography": "custom",
+            "typography_font_family": "Libre Baskerville",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 16,
+              "sizes": []
+            },
+            "typography_font_weight": "500",
+            "typography_text_transform": "none"
+          },
+          "elements": []
+        },
+        {
+          "id": "614728c5",
+          "elType": "widget",
+          "widgetType": "heading",
+          "isInner": false,
+          "settings": {
+            "title": "What clients say",
+            "header_size": "h2",
+            "align": "center",
+            "title_color": "#362720",
+            "typography_typography": "custom",
+            "typography_font_family": "Cinzel",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 32,
+              "sizes": []
+            },
+            "typography_font_weight": "500",
+            "typography_text_transform": "none"
+          },
+          "elements": []
+        },
+        {
+          "id": "d2cfdfdd",
+          "elType": "widget",
+          "widgetType": "image-carousel",
+          "isInner": false,
+          "settings": {
+            "carousel": [
+              {
+                "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/review-01.jpg",
+                "id": "",
+                "alt": "Client review 1",
+                "source": "url"
+              },
+              {
+                "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/review-02.jpg",
+                "id": "",
+                "alt": "Client review 2",
+                "source": "url"
+              },
+              {
+                "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/review-03.jpg",
+                "id": "",
+                "alt": "Client review 3",
+                "source": "url"
+              },
+              {
+                "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/review-04.jpg",
+                "id": "",
+                "alt": "Client review 4",
+                "source": "url"
+              },
+              {
+                "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/review-05.jpg",
+                "id": "",
+                "alt": "Client review 5",
+                "source": "url"
+              },
+              {
+                "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/review-06.jpg",
+                "id": "",
+                "alt": "Client review 6",
+                "source": "url"
+              },
+              {
+                "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/review-07.jpg",
+                "id": "",
+                "alt": "Client review 7",
+                "source": "url"
+              },
+              {
+                "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/review-08.jpg",
+                "id": "",
+                "alt": "Client review 8",
+                "source": "url"
+              },
+              {
+                "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/review-09.jpg",
+                "id": "",
+                "alt": "Client review 9",
+                "source": "url"
+              },
+              {
+                "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/review-10.jpg",
+                "id": "",
+                "alt": "Client review 10",
+                "source": "url"
+              },
+              {
+                "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/review-11.jpg",
+                "id": "",
+                "alt": "Client review 11",
+                "source": "url"
+              },
+              {
+                "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/review-12.jpg",
+                "id": "",
+                "alt": "Client review 12",
+                "source": "url"
+              },
+              {
+                "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/review-13.jpg",
+                "id": "",
+                "alt": "Client review 13",
+                "source": "url"
+              },
+              {
+                "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/review-14.jpg",
+                "id": "",
+                "alt": "Client review 14",
+                "source": "url"
+              },
+              {
+                "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/review-15.jpg",
+                "id": "",
+                "alt": "Client review 15",
+                "source": "url"
+              },
+              {
+                "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/review-16.jpg",
+                "id": "",
+                "alt": "Client review 16",
+                "source": "url"
+              },
+              {
+                "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/review-17.jpg",
+                "id": "",
+                "alt": "Client review 17",
+                "source": "url"
+              },
+              {
+                "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/review-18.jpg",
+                "id": "",
+                "alt": "Client review 18",
+                "source": "url"
+              },
+              {
+                "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/review-19.jpg",
+                "id": "",
+                "alt": "Client review 19",
+                "source": "url"
+              },
+              {
+                "url": "https://contourlashandbrow.com.au/wp-content/uploads/contour/review-20.jpg",
+                "id": "",
+                "alt": "Client review 20",
+                "source": "url"
+              }
+            ],
+            "slides_to_show": "1",
+            "navigation": "both",
+            "autoplay": "yes",
+            "image_stretch": "yes",
+            "arrows_color": "#8F6F63",
+            "autoplay_speed": 4000,
+            "infinite": "yes",
+            "dots_color": "#8F6F63"
+          },
+          "elements": []
+        },
+        {
+          "id": "1bf74127",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "container_type": "flex",
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_direction_mobile": "column",
+            "flex_wrap": "nowrap",
+            "flex_wrap_mobile": "wrap",
+            "flex_gap": {
+              "column": "24",
+              "row": "24",
+              "unit": "px",
+              "isLinked": true,
+              "size": 24
+            },
+            "flex_align_items": "stretch",
+            "flex_justify_content": "flex-start",
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            }
+          },
+          "elements": [
+            {
+              "id": "1ddf4270",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 48,
+                  "sizes": []
+                },
+                "background_background": "classic",
+                "background_color": "#FFFFFF",
+                "padding": {
+                  "unit": "px",
+                  "top": "28",
+                  "right": "24",
+                  "bottom": "28",
+                  "left": "24",
+                  "isLinked": false
+                },
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1",
+                  "isLinked": true
+                },
+                "border_color": "#DBBCB0"
+              },
+              "elements": [
+                {
+                  "id": "28ffef0b",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "isInner": false,
+                  "settings": {
+                    "title": "★★★★★",
+                    "header_size": "h6",
+                    "align": "left",
+                    "title_color": "#8F6F63",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cinzel",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "500",
+                    "typography_text_transform": "none"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "ee531d51",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "“10/10 recommend I got my lashes done by Aaron and he did an amazing job absolutely love them.”",
+                    "align": "left",
+                    "text_color": "#5E5E5E",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "44ad6a1e",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "Facebook review",
+                    "align": "left",
+                    "text_color": "#5E5E5E",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 13,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "69647b8c",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 48,
+                  "sizes": []
+                },
+                "background_background": "classic",
+                "background_color": "#FFFFFF",
+                "padding": {
+                  "unit": "px",
+                  "top": "28",
+                  "right": "24",
+                  "bottom": "28",
+                  "left": "24",
+                  "isLinked": false
+                },
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1",
+                  "isLinked": true
+                },
+                "border_color": "#DBBCB0"
+              },
+              "elements": [
+                {
+                  "id": "ce173a14",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "isInner": false,
+                  "settings": {
+                    "title": "★★★★★",
+                    "header_size": "h6",
+                    "align": "left",
+                    "title_color": "#8F6F63",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cinzel",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "500",
+                    "typography_text_transform": "none"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "d11f0c02",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "“I had a glamour set booked in with Aaron today. He absolutely exceeded my expectations! The best set I’ve ever had done. Aaron had amazing customer service skills and I felt comfortable and well taken care of.”",
+                    "align": "left",
+                    "text_color": "#5E5E5E",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "6e651efe",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "Facebook review",
+                    "align": "left",
+                    "text_color": "#5E5E5E",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 13,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aa71fcef",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "container_type": "flex",
+        "content_width": "boxed",
+        "boxed_width": {
+          "unit": "px",
+          "size": 1140,
+          "sizes": []
+        },
+        "flex_direction": "column",
+        "flex_align_items": "stretch",
+        "flex_gap": {
+          "column": "24",
+          "row": "24",
+          "unit": "px",
+          "isLinked": true,
+          "size": 24
+        },
+        "padding": {
+          "unit": "px",
+          "top": "72",
+          "right": "24",
+          "bottom": "72",
+          "left": "24",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "html_tag": "section"
+      },
+      "elements": [
+        {
+          "id": "4dc63994",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "container_type": "flex",
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_direction_mobile": "column",
+            "flex_wrap": "nowrap",
+            "flex_wrap_mobile": "wrap",
+            "flex_gap": {
+              "column": "24",
+              "row": "24",
+              "unit": "px",
+              "isLinked": true,
+              "size": 24
+            },
+            "flex_align_items": "stretch",
+            "flex_justify_content": "flex-start",
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            }
+          },
+          "elements": [
+            {
+              "id": "4904c057",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 50,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "46537d14",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "isInner": false,
+                  "settings": {
+                    "title": "What to expect",
+                    "header_size": "h6",
+                    "align": "left",
+                    "title_color": "#8F6F63",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Libre Baskerville",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "500",
+                    "typography_text_transform": "none"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "077ccbbc",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "isInner": false,
+                  "settings": {
+                    "title": "What are eyelash extensions?",
+                    "header_size": "h2",
+                    "align": "left",
+                    "title_color": "#362720",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cinzel",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 32,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "500",
+                    "typography_text_transform": "none"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "252b3002",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "Eyelash extensions are semi-permanent lashes applied to each natural lash individually for the most natural-looking result. Unlike strip lashes, a professional lash stylist attaches one extension to each of your natural lashes.",
+                    "align": "left",
+                    "text_color": "#5E5E5E",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "391c9476",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "A full set takes around 1 to 2 hours depending on the style you choose. Refills are generally 1 to 1.5 hours every 2–4 weeks to keep your set looking fresh.",
+                    "align": "left",
+                    "text_color": "#5E5E5E",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "92861a01",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "container_type": "flex",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "12",
+                  "row": "12",
+                  "unit": "px",
+                  "isLinked": true,
+                  "size": 12
+                },
+                "flex_size": "custom",
+                "flex_grow": 0,
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_size_mobile": "custom",
+                "width": {
+                  "unit": "%",
+                  "size": 50,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "cbe62d47",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "isInner": false,
+                  "settings": {
+                    "title": "Before you visit",
+                    "header_size": "h6",
+                    "align": "left",
+                    "title_color": "#8F6F63",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Libre Baskerville",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "500",
+                    "typography_text_transform": "none"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "bca60473",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "isInner": false,
+                  "settings": {
+                    "title": "Preparation",
+                    "header_size": "h2",
+                    "align": "left",
+                    "title_color": "#362720",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cinzel",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 32,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "500",
+                    "typography_text_transform": "none"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "ba118912",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "Please remove all eye make-up before your appointment so we can use the full treatment time on your lashes.",
+                    "align": "left",
+                    "text_color": "#5E5E5E",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "3783d9a8",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "editor": "Contact lenses cannot be worn during treatment, as your eyes stay closed while extensions are applied. Avoid waterproof mascara for at least 3 days prior — it can be very difficult to remove.",
+                    "align": "left",
+                    "text_color": "#5E5E5E",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Source Sans 3",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2fa73143",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "container_type": "flex",
+        "content_width": "boxed",
+        "boxed_width": {
+          "unit": "px",
+          "size": 1140,
+          "sizes": []
+        },
+        "flex_direction": "column",
+        "flex_align_items": "center",
+        "padding": {
+          "unit": "px",
+          "top": "80",
+          "right": "24",
+          "bottom": "80",
+          "left": "24",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#3E2D25",
+        "html_tag": "section"
+      },
+      "elements": [
+        {
+          "id": "4fc94b7a",
+          "elType": "widget",
+          "widgetType": "heading",
+          "isInner": false,
+          "settings": {
+            "title": "Appointments available",
+            "header_size": "h2",
+            "align": "center",
+            "title_color": "#F8F2F1",
+            "typography_typography": "custom",
+            "typography_font_family": "Cinzel",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 32,
+              "sizes": []
+            },
+            "typography_font_weight": "500",
+            "typography_text_transform": "none"
+          },
+          "elements": []
+        },
+        {
+          "id": "a0de8aac",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "isInner": false,
+          "settings": {
+            "editor": "Book online with live availability — appointments only.",
+            "align": "center",
+            "text_color": "#F8F2F1",
+            "typography_typography": "custom",
+            "typography_font_family": "Source Sans 3",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 16,
+              "sizes": []
+            }
+          },
+          "elements": []
+        },
+        {
+          "id": "05667e8c",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "container_type": "flex",
+            "content_width": "full",
+            "flex_justify_content": "center"
+          },
+          "elements": [
+            {
+              "id": "e28f9bdd",
+              "elType": "widget",
+              "widgetType": "button",
+              "isInner": false,
+              "settings": {
+                "text": "Book Now",
+                "link": {
+                  "url": "https://app.acuityscheduling.com/schedule/dcffaf1c",
+                  "is_external": "on",
+                  "nofollow": "",
+                  "custom_attributes": ""
+                },
+                "align": "center",
+                "background_color": "#FFFFFF",
+                "button_text_color": "#362720",
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1",
+                  "isLinked": true
+                },
+                "border_color": "#8F6F63",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "2",
+                  "right": "2",
+                  "bottom": "2",
+                  "left": "2",
+                  "isLinked": true
+                },
+                "typography_typography": "custom",
+                "typography_font_family": "Cinzel",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 14,
+                  "sizes": []
+                },
+                "typography_text_transform": "uppercase",
+                "typography_letter_spacing": {
+                  "unit": "px",
+                  "size": 1.5,
+                  "sizes": []
+                },
+                "button_background_hover_background": "classic",
+                "hover_color": "#F8F2F1",
+                "button_background_hover_color": "#3E2D25"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
